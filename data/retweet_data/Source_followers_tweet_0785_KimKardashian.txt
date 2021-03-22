@@ -1,0 +1,769 @@
+0	25365536	KimKardashian	14441398	0	Sun, 15 Apr 2012 19:09:31 +0000	KimKardashian	Happy Sunday tweeps! Have a blessed day!
+1	342843872	Camimarti1	109	1	Sun, 15 Apr 2012 19:09:49 +0000	KimKardashian	RT @KimKardashian: Happy Sunday tweeps! Have a blessed day!
+2	215260391	Roneay	250	1	Sun, 15 Apr 2012 19:09:51 +0000	KimKardashian	RT @KimKardashian: Happy Sunday tweeps! Have a blessed day!
+3	231032154	iloveyouhere	75	1	Sun, 15 Apr 2012 19:09:57 +0000	KimKardashian	RT @KimKardashian: Happy Sunday tweeps! Have a blessed day!
+4	127261301	marialauraruz	647	1	Sun, 15 Apr 2012 19:09:58 +0000	KimKardashian	RT @KimKardashian: Happy Sunday tweeps! Have a blessed day!
+5	74238118	DidierFA	578	1	Sun, 15 Apr 2012 19:10:00 +0000	KimKardashian	Tu tambien marrrdito cuero viejo! RT @KimKardashian: Happy Sunday tweeps! Have a blessed day!
+6	279466011	KleoGeorgiou	69	1	Sun, 15 Apr 2012 19:10:02 +0000	KimKardashian	RT @KimKardashian: Happy Sunday tweeps! Have a blessed day!
+7	357036173	keesha_danielle	136	1	Sun, 15 Apr 2012 19:10:05 +0000	KimKardashian	RT @KimKardashian: Happy Sunday tweeps! Have a blessed day!
+8	553007864	Lynda_LoveKimK	44	1	Sun, 15 Apr 2012 19:10:06 +0000	KimKardashian	RT @KimKardashian: Happy Sunday tweeps! Have a blessed day!
+9	288891352	selztay	95	1	Sun, 15 Apr 2012 19:10:08 +0000	KimKardashian	RT @KimKardashian: Happy Sunday tweeps! Have a blessed day!
+10	444245617	amberbarrettxox	73	1	Sun, 15 Apr 2012 19:10:08 +0000	KimKardashian	RT @KimKardashian: Happy Sunday tweeps! Have a blessed day!
+11	270060931	vallelinlachrod	221	1	Sun, 15 Apr 2012 19:10:14 +0000	KimKardashian	RT @KimKardashian: Happy Sunday tweeps! Have a blessed day!
+12	343117570	SarahMcKinsey	176	1	Sun, 15 Apr 2012 19:10:14 +0000	KimKardashian	RT @KimKardashian: Happy Sunday tweeps! Have a blessed day!
+13	71366267	_danioo	704	1	Sun, 15 Apr 2012 19:10:14 +0000	KimKardashian	RT @KimKardashian: Happy Sunday tweeps! Have a blessed day!
+14	138930480	Wahidsafi	413	1	Sun, 15 Apr 2012 19:10:15 +0000	KimKardashian	RT @KimKardashian: Happy Sunday tweeps! Have a blessed day!
+15	546167609	TomiSwallalala	22	1	Sun, 15 Apr 2012 19:10:16 +0000	KimKardashian	RT @KimKardashian: Happy Sunday tweeps! Have a blessed day!
+16	285178661	Joshywa_94	108	1	Sun, 15 Apr 2012 19:10:18 +0000	KimKardashian	RT @KimKardashian: Happy Sunday tweeps! Have a blessed day!
+17	199726442	RisaTheCreator	393	1	Sun, 15 Apr 2012 19:10:18 +0000	KimKardashian	RT @KimKardashian: Happy Sunday tweeps! Have a blessed day!
+18	200642597	BYEmichellenav	186	1	Sun, 15 Apr 2012 19:10:19 +0000	KimKardashian	RT @KimKardashian: Happy Sunday tweeps! Have a blessed day!
+19	86444846	loreicirivas	278	1	Sun, 15 Apr 2012 19:10:21 +0000	KimKardashian	RT @KimKardashian: Happy Sunday tweeps! Have a blessed day!
+20	451783709	brittany93_h	145	1	Sun, 15 Apr 2012 19:10:22 +0000	KimKardashian	RT @KimKardashian: Happy Sunday tweeps! Have a blessed day!
+21	388083649	camille1245	265	1	Sun, 15 Apr 2012 19:10:25 +0000	KimKardashian	RT @KimKardashian: Happy Sunday tweeps! Have a blessed day!
+22	498506140	Beyondd_Khutee	79	1	Sun, 15 Apr 2012 19:10:28 +0000	KimKardashian	RT @KimKardashian: Happy Sunday tweeps! Have a blessed day!
+23	179399484	torresnatyc	1039	1	Sun, 15 Apr 2012 19:10:32 +0000	KimKardashian	RT @KimKardashian: Happy Sunday tweeps! Have a blessed day!
+24	418302220	_majoriveraa	805	1	Sun, 15 Apr 2012 19:10:32 +0000	KimKardashian	RT @KimKardashian: Happy Sunday tweeps! Have a blessed day!
+25	457885126	ILoveYuhNoBonez	69	1	Sun, 15 Apr 2012 19:10:34 +0000	KimKardashian	RT @KimKardashian: Happy Sunday tweeps! Have a blessed day!
+26	456401711	DecastroGenesis	76	1	Sun, 15 Apr 2012 19:10:38 +0000	KimKardashian	RT @KimKardashian: Happy Sunday tweeps! Have a blessed day!
+27	310014995	Ymariita	107	1	Sun, 15 Apr 2012 19:10:43 +0000	KimKardashian	RT @KimKardashian: Happy Sunday tweeps! Have a blessed day!
+28	455081204	Betomar69	62	1	Sun, 15 Apr 2012 19:10:45 +0000	KimKardashian	RT @KimKardashian: Happy Sunday tweeps! Have a blessed day!
+29	539569385	marthamartha15	82	1	Sun, 15 Apr 2012 19:10:45 +0000	KimKardashian	RT @KimKardashian: Happy Sunday tweeps! Have a blessed day!
+30	173700288	KikeEdy14	529	1	Sun, 15 Apr 2012 19:10:45 +0000	KimKardashian	RT @KimKardashian: Happy Sunday tweeps! Have a blessed day!
+31	234581313	Was_supRedbone	382	1	Sun, 15 Apr 2012 19:10:46 +0000	KimKardashian	RT @KimKardashian: Happy Sunday tweeps! Have a blessed day!
+32	109833108	lilliehampshire	198	1	Sun, 15 Apr 2012 19:10:48 +0000	KimKardashian	RT @KimKardashian: Happy Sunday tweeps! Have a blessed day!
+33	420739272	Shelby___Lou	41	1	Sun, 15 Apr 2012 19:10:49 +0000	KimKardashian	RT @KimKardashian: Happy Sunday tweeps! Have a blessed day!
+34	155348023	open2erick	30	1	Sun, 15 Apr 2012 19:10:51 +0000	KimKardashian	RT @KimKardashian: Happy Sunday tweeps! Have a blessed day!
+35	17766996	lilmimila	119	1	Sun, 15 Apr 2012 19:10:54 +0000	KimKardashian	RT @KimKardashian: Happy Sunday tweeps! Have a blessed day!
+36	466069242	haleyjf_32	124	1	Sun, 15 Apr 2012 19:10:56 +0000	KimKardashian	RT @KimKardashian: Happy Sunday tweeps! Have a blessed day!
+37	457276834	hiisssoo	94	1	Sun, 15 Apr 2012 19:10:57 +0000	KimKardashian	RT @KimKardashian: Happy Sunday tweeps! Have a blessed day!
+38	188806893	karlstv	243	1	Sun, 15 Apr 2012 19:10:58 +0000	KimKardashian	RT @KimKardashian: Happy Sunday tweeps! Have a blessed day!
+39	166415191	VeryRAYdiant	634	1	Sun, 15 Apr 2012 19:10:59 +0000	KimKardashian	RT @KimKardashian: Happy Sunday tweeps! Have a blessed day!
+40	465185065	Marwahabxo	57	1	Sun, 15 Apr 2012 19:11:00 +0000	KimKardashian	RT @KimKardashian: Happy Sunday tweeps! Have a blessed day!
+41	547907278	jasminneee_xo	77	1	Sun, 15 Apr 2012 19:11:01 +0000	KimKardashian	RT @KimKardashian: Happy Sunday tweeps! Have a blessed day!
+42	487196669	RonaMery	33	1	Sun, 15 Apr 2012 19:11:01 +0000	KimKardashian	RT @KimKardashian: Happy Sunday tweeps! Have a blessed day!
+43	506101041	runawaylove_13	184	1	Sun, 15 Apr 2012 19:11:02 +0000	KimKardashian	RT @KimKardashian: Happy Sunday tweeps! Have a blessed day!
+44	442341554	angelia_cf	38	1	Sun, 15 Apr 2012 19:11:02 +0000	KimKardashian	RT @KimKardashian: Happy Sunday tweeps! Have a blessed day!
+45	105816276	intheloopscoop2	298	1	Sun, 15 Apr 2012 19:11:04 +0000	KimKardashian	RT @KimKardashian: Happy Sunday tweeps! Have a blessed day!
+46	363920790	RosaWinky_	373	1	Sun, 15 Apr 2012 19:11:05 +0000	KimKardashian	RT @KimKardashian: Happy Sunday tweeps! Have a blessed day!
+47	442133526	susana_ibrahim	107	1	Sun, 15 Apr 2012 19:11:05 +0000	KimKardashian	RT @KimKardashian: Happy Sunday tweeps! Have a blessed day!
+48	65369115	DanyLuzOficial	364	1	Sun, 15 Apr 2012 19:11:06 +0000	KimKardashian	RT @KimKardashian: Happy Sunday tweeps! Have a blessed day!
+49	471258784	StephFernandezN	123	1	Sun, 15 Apr 2012 19:11:07 +0000	KimKardashian	RT @KimKardashian: Happy Sunday tweeps! Have a blessed day!
+50	388990064	Kamariin	373	1	Sun, 15 Apr 2012 19:11:08 +0000	KimKardashian	RT @KimKardashian: Happy Sunday tweeps! Have a blessed day!
+51	193011512	BarbHernandez10	148	1	Sun, 15 Apr 2012 19:11:09 +0000	KimKardashian	RT @KimKardashian: Happy Sunday tweeps! Have a blessed day!
+52	424352259	broccoli_b22	243	1	Sun, 15 Apr 2012 19:11:09 +0000	KimKardashian	RT @KimKardashian: Happy Sunday tweeps! Have a blessed day!
+53	414363785	SamiSherman	133	1	Sun, 15 Apr 2012 19:11:10 +0000	KimKardashian	RT @KimKardashian: Happy Sunday tweeps! Have a blessed day!
+54	554357246	PurpleJBNinja94	60	1	Sun, 15 Apr 2012 19:11:13 +0000	KimKardashian	RT @KimKardashian: Happy Sunday tweeps! Have a blessed day!
+55	70068694	dulloa93	148	1	Sun, 15 Apr 2012 19:11:14 +0000	KimKardashian	RT @KimKardashian: Happy Sunday tweeps! Have a blessed day!
+56	397511487	LindaGunSmile	517	1	Sun, 15 Apr 2012 19:11:15 +0000	KimKardashian	RT @KimKardashian: Happy Sunday tweeps! Have a blessed day!
+57	180474147	oithassy	217	1	Sun, 15 Apr 2012 19:11:16 +0000	KimKardashian	RT @KimKardashian: Happy Sunday tweeps! Have a blessed day!
+58	45126597	bigassgee	455	1	Sun, 15 Apr 2012 19:11:16 +0000	KimKardashian	RT @KimKardashian: Happy Sunday tweeps! Have a blessed day!
+59	446983127	Fayjh	109	1	Sun, 15 Apr 2012 19:11:17 +0000	KimKardashian	"@KimKardashian: Happy Sunday tweeps! Have a blessed day!"
+60	31206054	Kayleigh_Jane92	48	1	Sun, 15 Apr 2012 19:11:18 +0000	KimKardashian	RT @KimKardashian: Happy Sunday tweeps! Have a blessed day!
+61	71824210	guinguinha	1618	1	Sun, 15 Apr 2012 19:11:20 +0000	KimKardashian	RT @KimKardashian: Happy Sunday tweeps! Have a blessed day!
+62	331083241	BooneyCuz	238	1	Sun, 15 Apr 2012 19:11:21 +0000	KimKardashian	RT @KimKardashian: Happy Sunday tweeps! Have a blessed day!
+63	459411080	mzjennyx_x	115	1	Sun, 15 Apr 2012 19:11:22 +0000	KimKardashian	RT @KimKardashian: Happy Sunday tweeps! Have a blessed day!
+64	446024333	noorhope	17	1	Sun, 15 Apr 2012 19:11:23 +0000	KimKardashian	RT @KimKardashian: Happy Sunday tweeps! Have a blessed day!
+65	180971477	YuraRenteria	66	1	Sun, 15 Apr 2012 19:11:24 +0000	KimKardashian	RT @KimKardashian: Happy Sunday tweeps! Have a blessed day!
+66	455970162	Kissauris_	123	1	Sun, 15 Apr 2012 19:11:25 +0000	KimKardashian	RT @KimKardashian: Happy Sunday tweeps! Have a blessed day!
+67	324059780	SMiguelRuiz	443	1	Sun, 15 Apr 2012 19:11:25 +0000	KimKardashian	RT @KimKardashian: Happy Sunday tweeps! Have a blessed day!
+68	266428558	DatB_Doll	398	1	Sun, 15 Apr 2012 19:11:26 +0000	KimKardashian	RT @KimKardashian: Happy Sunday tweeps! Have a blessed day!
+69	452995982	Scott_Robinson0	153	1	Sun, 15 Apr 2012 19:11:28 +0000	KimKardashian	RT @KimKardashian: Happy Sunday tweeps! Have a blessed day!
+70	181846145	CLAUDIAVBENITEZ	199	1	Sun, 15 Apr 2012 19:11:29 +0000	KimKardashian	HoneyRT "@KimKardashian: Happy Sunday tweeps! Have a blessed day!"
+71	337370432	zekNcashe	32586	1	Sun, 15 Apr 2012 19:11:29 +0000	KimKardashian	Hey Boo RT @KimKardashian  Happy Sunday tweeps! Have a blessed day!
+72	513522609	josetterouphael	9	1	Sun, 15 Apr 2012 19:11:32 +0000	KimKardashian	RT @KimKardashian: Happy Sunday tweeps! Have a blessed day!
+73	551996221	SWAGGY_time	56	1	Sun, 15 Apr 2012 19:11:33 +0000	KimKardashian	RT @KimKardashian: Happy Sunday tweeps! Have a blessed day!
+74	392884446	francesmarie23	44	1	Sun, 15 Apr 2012 19:11:33 +0000	KimKardashian	RT @KimKardashian: Happy Sunday tweeps! Have a blessed day!
+75	355643401	Pal0mitah	46	1	Sun, 15 Apr 2012 19:11:34 +0000	KimKardashian	RT @KimKardashian: Happy Sunday tweeps! Have a blessed day!
+76	68248211	nev3rsayperfect	366	1	Sun, 15 Apr 2012 19:11:34 +0000	KimKardashian	RT @KimKardashian: Happy Sunday tweeps! Have a blessed day!
+77	397124896	KrishmittyTF	55	1	Sun, 15 Apr 2012 19:11:34 +0000	KimKardashian	RT @KimKardashian: Happy Sunday tweeps! Have a blessed day!
+78	305736703	Persuasiv0	154	1	Sun, 15 Apr 2012 19:11:35 +0000	KimKardashian	RT @KimKardashian: Happy Sunday tweeps! Have a blessed day!
+79	512395700	lilbabyreg	95	1	Sun, 15 Apr 2012 19:11:36 +0000	KimKardashian	RT @KimKardashian: Happy Sunday tweeps! Have a blessed day!
+80	265116313	kiid_bieber	37	1	Sun, 15 Apr 2012 19:11:38 +0000	KimKardashian	"@KimKardashian: Happy Sunday tweeps! Have a blessed day!"
+81	279865857	IDUL14	501	1	Sun, 15 Apr 2012 19:11:38 +0000	KimKardashian	RT @KimKardashian: Happy Sunday tweeps! Have a blessed day!
+82	343784017	Bill_you3202	186	1	Sun, 15 Apr 2012 19:11:39 +0000	KimKardashian	RT @KimKardashian: Happy Sunday tweeps! Have a blessed day!
+83	315205441	TRANQUILLAx	84	1	Sun, 15 Apr 2012 19:11:40 +0000	KimKardashian	RT @KimKardashian: Happy Sunday tweeps! Have a blessed day!
+84	351292660	MonicaKitts69	100	1	Sun, 15 Apr 2012 19:11:42 +0000	KimKardashian	RT @KimKardashian: Happy Sunday tweeps! Have a blessed day!
+85	127393622	kendylieluv	26	1	Sun, 15 Apr 2012 19:11:42 +0000	KimKardashian	RT @KimKardashian: Happy Sunday tweeps! Have a blessed day!
+86	326242976	7Quinn	108	1	Sun, 15 Apr 2012 19:11:44 +0000	KimKardashian	RT @KimKardashian: Happy Sunday tweeps! Have a blessed day!
+87	215634161	MRBANKS89	181	1	Sun, 15 Apr 2012 19:11:46 +0000	KimKardashian	U too baby RT @KimKardashian Happy Sunday tweeps! Have a blessed day!
+88	97471179	julianokunert	213	1	Sun, 15 Apr 2012 19:11:47 +0000	KimKardashian	RT @KimKardashian: Happy Sunday tweeps! Have a blessed day!
+89	446910696	Nikolina945	8	1	Sun, 15 Apr 2012 19:11:52 +0000	KimKardashian	RT @KimKardashian: Happy Sunday tweeps! Have a blessed day!
+90	128049139	belenbell	67	1	Sun, 15 Apr 2012 19:11:52 +0000	KimKardashian	RT @KimKardashian: Happy Sunday tweeps! Have a blessed day!
+91	225553927	sHeRyNeXD	824	1	Sun, 15 Apr 2012 19:11:55 +0000	KimKardashian	RT @KimKardashian: Happy Sunday tweeps! Have a blessed day!
+92	210544968	pism123	31	1	Sun, 15 Apr 2012 19:11:56 +0000	KimKardashian	RT @KimKardashian: Happy Sunday tweeps! Have a blessed day!
+93	385440004	GBmemere	64	1	Sun, 15 Apr 2012 19:12:01 +0000	KimKardashian	RT @KimKardashian: Happy Sunday tweeps! Have a blessed day!
+94	245125730	jarmp921120	159	1	Sun, 15 Apr 2012 19:12:02 +0000	KimKardashian	RT @KimKardashian: Happy Sunday tweeps! Have a blessed day!
+95	403065007	rickerjenna	249	1	Sun, 15 Apr 2012 19:12:03 +0000	KimKardashian	RT @KimKardashian: Happy Sunday tweeps! Have a blessed day!
+96	157161489	dianapuc	171	1	Sun, 15 Apr 2012 19:12:03 +0000	KimKardashian	RT @KimKardashian: Happy Sunday tweeps! Have a blessed day!
+97	402728891	FernandaAviilez	106	1	Sun, 15 Apr 2012 19:12:04 +0000	KimKardashian	"@KimKardashian: Happy Sunday tweeps! Have a blessed day!"
+98	553713026	Hatemytweetz	8	1	Sun, 15 Apr 2012 19:12:07 +0000	KimKardashian	RT @KimKardashian: Happy Sunday tweeps! Have a blessed day! #ThankYou #HateMyTweetz
+99	438911075	ShawshankState	55	1	Sun, 15 Apr 2012 19:12:08 +0000	KimKardashian	RT @KimKardashian: Happy Sunday tweeps! Have a blessed day!
+100	None	LeilaBZadeh	None	1	Sun, 15 Apr 2012 19:12:10 +0000	KimKardashian	RT @KimKardashian: Happy Sunday tweeps! Have a blessed day!
+101	552389420	cutiedpeace	69	1	Sun, 15 Apr 2012 19:12:10 +0000	KimKardashian	RT @KimKardashian: Happy Sunday tweeps! Have a blessed day!
+102	215419391	cactusdick	26	1	Sun, 15 Apr 2012 19:12:11 +0000	KimKardashian	RT @KimKardashian: Happy Sunday tweeps! Have a blessed day!
+103	156414187	AbbyTinkBeckham	357	1	Sun, 15 Apr 2012 19:12:12 +0000	KimKardashian	RT @KimKardashian: Happy Sunday tweeps! Have a blessed day!
+104	101103078	cisco909	228	1	Sun, 15 Apr 2012 19:12:13 +0000	KimKardashian	RT @KimKardashian: Happy Sunday tweeps! Have a blessed day!
+105	407201766	_mikestylez	70	1	Sun, 15 Apr 2012 19:12:14 +0000	KimKardashian	RT @KimKardashian: Happy Sunday tweeps! Have a blessed day!
+106	65178074	hollylush	185	1	Sun, 15 Apr 2012 19:12:15 +0000	KimKardashian	RT @KimKardashian: Happy Sunday tweeps! Have a blessed day!
+107	157704955	Anaa_Alfradiq	115	1	Sun, 15 Apr 2012 19:12:17 +0000	KimKardashian	RT @KimKardashian: Happy Sunday tweeps! Have a blessed day!
+108	295375725	JozelineLHewit	348	1	Sun, 15 Apr 2012 19:12:22 +0000	KimKardashian	RT @KimKardashian: Happy Sunday tweeps! Have a blessed day!
+109	415791039	lucy_maegorrie	201	1	Sun, 15 Apr 2012 19:12:23 +0000	KimKardashian	RT @KimKardashian: Happy Sunday tweeps! Have a blessed day!
+110	108867021	DianPramuda	126	1	Sun, 15 Apr 2012 19:12:26 +0000	KimKardashian	RT @KimKardashian: Happy Sunday tweeps! Have a blessed day!
+111	318200785	licristihernan	36	1	Sun, 15 Apr 2012 19:12:27 +0000	KimKardashian	RT @KimKardashian: Happy Sunday tweeps! Have a blessed day!
+112	362617966	amber_marie4	220	1	Sun, 15 Apr 2012 19:12:29 +0000	KimKardashian	RT @KimKardashian: Happy Sunday tweeps! Have a blessed day!
+113	393016085	MayMarquezF	66	1	Sun, 15 Apr 2012 19:12:30 +0000	KimKardashian	RT @KimKardashian: Happy Sunday tweeps! Have a blessed day!
+114	475509725	AriffFazrul	150	1	Sun, 15 Apr 2012 19:12:32 +0000	KimKardashian	RT @KimKardashian: Happy Sunday tweeps! Have a blessed day!
+115	205485639	XimeSalas1	339	1	Sun, 15 Apr 2012 19:12:35 +0000	KimKardashian	RT @KimKardashian: Happy Sunday tweeps! Have a blessed day!
+116	461702200	HeartlessGabbyy	232	1	Sun, 15 Apr 2012 19:12:35 +0000	KimKardashian	5 more days and I see you :) RT“@KimKardashian: Happy Sunday tweeps! Have a blessed day!”
+117	337531972	HannahGandara	191	1	Sun, 15 Apr 2012 19:12:36 +0000	KimKardashian	RT @KimKardashian: Happy Sunday tweeps! Have a blessed day!
+118	236642992	Nani2593	201	1	Sun, 15 Apr 2012 19:12:36 +0000	KimKardashian	RT @KimKardashian: Happy Sunday tweeps! Have a blessed day!
+119	349622923	_MariaSelezneva	68	1	Sun, 15 Apr 2012 19:12:37 +0000	KimKardashian	RT @KimKardashian: Happy Sunday tweeps! Have a blessed day!
+120	383024215	94Melissa26	131	1	Sun, 15 Apr 2012 19:12:40 +0000	KimKardashian	RT @KimKardashian: Happy Sunday tweeps! Have a blessed day!
+121	337248737	kiiimL	451	1	Sun, 15 Apr 2012 19:12:41 +0000	KimKardashian	RT @KimKardashian: Happy Sunday tweeps! Have a blessed day!
+122	365794073	BaileyNatalie	30	1	Sun, 15 Apr 2012 19:12:44 +0000	KimKardashian	RT @KimKardashian: Happy Sunday tweeps! Have a blessed day!
+123	231761101	eldivaxx	430	1	Sun, 15 Apr 2012 19:12:44 +0000	KimKardashian	RT @KimKardashian: Happy Sunday tweeps! Have a blessed day!
+124	70253587	carolinessav	289	1	Sun, 15 Apr 2012 19:12:44 +0000	KimKardashian	RT @KimKardashian: Happy Sunday tweeps! Have a blessed day!
+125	274245253	sabotagelovex	462	1	Sun, 15 Apr 2012 19:12:45 +0000	KimKardashian	RT @KimKardashian: Happy Sunday tweeps! Have a blessed day!
+126	445307499	SamuDuarteC	40	1	Sun, 15 Apr 2012 19:12:50 +0000	KimKardashian	RT @KimKardashian: Happy Sunday tweeps! Have a blessed day!
+127	381703517	MzTejada	170	1	Sun, 15 Apr 2012 19:12:53 +0000	KimKardashian	RT @KimKardashian: Happy Sunday tweeps! Have a blessed day!
+128	373968187	KriisthalDotto	383	1	Sun, 15 Apr 2012 19:12:54 +0000	KimKardashian	RT @KimKardashian: Happy Sunday tweeps! Have a blessed day!
+129	300231140	lovemeOMG	1524	1	Sun, 15 Apr 2012 19:12:56 +0000	KimKardashian	RT @KimKardashian: Happy Sunday tweeps! Have a blessed day!
+130	338594493	VianeyChanCanto	93	1	Sun, 15 Apr 2012 19:12:56 +0000	KimKardashian	RT @KimKardashian: Happy Sunday tweeps! Have a blessed day!
+131	354028609	awiannairene	232	1	Sun, 15 Apr 2012 19:12:57 +0000	KimKardashian	RT @KimKardashian: Happy Sunday tweeps! Have a blessed day!
+132	224463132	tarylldana7586	41	1	Sun, 15 Apr 2012 19:13:00 +0000	KimKardashian	Thnk u! u have a good day 2 RT: @KimKardashian: Happy Sunday tweeps! Have a blessed day!
+133	287474505	JulieeJan	171	1	Sun, 15 Apr 2012 19:13:00 +0000	KimKardashian	RT @KimKardashian: Happy Sunday tweeps! Have a blessed day!
+134	238861636	ap11209	36	1	Sun, 15 Apr 2012 19:13:03 +0000	KimKardashian	RT @KimKardashian: Happy Sunday tweeps! Have a blessed day!
+135	193536406	KellyParadas	759	1	Sun, 15 Apr 2012 19:13:03 +0000	KimKardashian	RT @KimKardashian: Happy Sunday tweeps! Have a blessed day!
+136	295577746	MEETmyTWEETS	73	1	Sun, 15 Apr 2012 19:13:04 +0000	KimKardashian	“@KimKardashian Happy Sunday tweeps! Have a blessed day!”
+137	294955953	LavyneaKardash	145	1	Sun, 15 Apr 2012 19:13:04 +0000	KimKardashian	Happy Sunday tweeps! Have a blessed day!
+138	171401650	josefbarker	213	1	Sun, 15 Apr 2012 19:13:05 +0000	KimKardashian	RT @KimKardashian: Happy Sunday tweeps! Have a blessed day!
+139	135295146	NameKathe	196	1	Sun, 15 Apr 2012 19:13:07 +0000	KimKardashian	RT @KimKardashian: Happy Sunday tweeps! Have a blessed day!
+140	215510273	mores812	110	1	Sun, 15 Apr 2012 19:13:12 +0000	KimKardashian	RT @KimKardashian: Happy Sunday tweeps! Have a blessed day!
+141	265705468	_ImagineThatt	331	1	Sun, 15 Apr 2012 19:13:13 +0000	KimKardashian	RT @KimKardashian: Happy Sunday tweeps! Have a blessed day!
+142	291330036	ThatFoolio	405	1	Sun, 15 Apr 2012 19:13:14 +0000	KimKardashian	RT @KimKardashian: Happy Sunday tweeps! Have a blessed day!
+143	360204906	nuraygunaydin	62	1	Sun, 15 Apr 2012 19:13:17 +0000	KimKardashian	RT @KimKardashian: Happy Sunday tweeps! Have a blessed day!
+144	126339766	cillaaabeee	74	1	Sun, 15 Apr 2012 19:13:17 +0000	KimKardashian	RT @KimKardashian: Happy Sunday tweeps! Have a blessed day!
+145	265637518	amfriedrich	143	1	Sun, 15 Apr 2012 19:13:21 +0000	KimKardashian	RT @KimKardashian: Happy Sunday tweeps! Have a blessed day!
+146	160687443	mariMayeregger	63	1	Sun, 15 Apr 2012 19:13:24 +0000	KimKardashian	RT @KimKardashian: Happy Sunday tweeps! Have a blessed day!
+147	494019953	reemabdulla0	34	1	Sun, 15 Apr 2012 19:13:34 +0000	KimKardashian	RT @KimKardashian: Happy Sunday tweeps! Have a blessed day!
+148	534685994	anslikatl	35	1	Sun, 15 Apr 2012 19:13:34 +0000	KimKardashian	RT @KimKardashian: Happy Sunday tweeps! Have a blessed day!
+149	191716722	SD__Gomez	120	1	Sun, 15 Apr 2012 19:13:35 +0000	KimKardashian	RT @KimKardashian: Happy Sunday tweeps! Have a blessed day!
+150	148734173	sewe4all	136	1	Sun, 15 Apr 2012 19:13:35 +0000	KimKardashian	RT @KimKardashian: Happy Sunday tweeps! Have a blessed day!
+151	280344589	monnabebe	164	1	Sun, 15 Apr 2012 19:13:36 +0000	KimKardashian	RT @KimKardashian: Happy Sunday tweeps! Have a blessed day!
+152	159814914	Zhakie_Ahmad	498	1	Sun, 15 Apr 2012 19:13:38 +0000	KimKardashian	its monday RT @KimKardashian: Happy Sunday tweeps! Have a blessed day!
+153	317828192	rigaTONI_pasta	140	1	Sun, 15 Apr 2012 19:13:42 +0000	KimKardashian	RT @KimKardashian: Happy Sunday tweeps! Have a blessed day!
+154	281606287	iSultan14	126	1	Sun, 15 Apr 2012 19:13:42 +0000	KimKardashian	RT @KimKardashian: Happy Sunday tweeps! Have a blessed day!
+155	162160711	MarianaHO	84	1	Sun, 15 Apr 2012 19:13:43 +0000	KimKardashian	RT @KimKardashian: Happy Sunday tweeps! Have a blessed day!
+156	76514794	AndiiLii	285	1	Sun, 15 Apr 2012 19:13:45 +0000	KimKardashian	RT @KimKardashian: Happy Sunday tweeps! Have a blessed day!
+157	373673513	nourkaay	92	1	Sun, 15 Apr 2012 19:13:46 +0000	KimKardashian	RT @KimKardashian: Happy Sunday tweeps! Have a blessed day!
+158	222041075	stevencringles	108	1	Sun, 15 Apr 2012 19:13:47 +0000	KimKardashian	RT @KimKardashian: Happy Sunday tweeps! Have a blessed day!
+159	200505612	jessussalfaro	390	1	Sun, 15 Apr 2012 19:13:49 +0000	KimKardashian	RT @KimKardashian: Happy Sunday tweeps! Have a blessed day!
+160	221350282	Miss_Tamaar	47	1	Sun, 15 Apr 2012 19:13:49 +0000	KimKardashian	RT @KimKardashian: Happy Sunday tweeps! Have a blessed day!
+161	398251683	aubmac92	63	1	Sun, 15 Apr 2012 19:13:49 +0000	KimKardashian	RT @KimKardashian: Happy Sunday tweeps! Have a blessed day!
+162	84126462	lilkevin305	532	1	Sun, 15 Apr 2012 19:13:51 +0000	KimKardashian	RT @KimKardashian: Happy Sunday tweeps! Have a blessed day!
+163	368502613	TM8_Primetime	1734	1	Sun, 15 Apr 2012 19:13:52 +0000	KimKardashian	RT @KimKardashian: Happy Sunday tweeps! Have a blessed day!
+164	93547776	PopularFeeds	627	1	Sun, 15 Apr 2012 19:13:55 +0000	KimKardashian	KimKardashian: Happy Sunday tweeps! Have a blessed day! - KimKardashian: Happy Sunday tweeps! Have a blessed day! http://t.co/Ke5Vvllj
+165	74414716	Shukky101	207	1	Sun, 15 Apr 2012 19:13:56 +0000	KimKardashian	U 2 kim.RT @KimKardashian: Happy Sunday tweeps! Have a blessed day!
+166	183863803	Debbie_Lottie	565	1	Sun, 15 Apr 2012 19:13:57 +0000	KimKardashian	"@KimKardashian: Happy Sunday tweeps! Have a blessed day!"
+167	316797457	Lavl281	238	1	Sun, 15 Apr 2012 19:14:09 +0000	KimKardashian	RT @KimKardashian: Happy Sunday tweeps! Have a blessed day!
+168	255715657	VaneGee1	92	1	Sun, 15 Apr 2012 19:14:10 +0000	KimKardashian	RT @KimKardashian: Happy Sunday tweeps! Have a blessed day!
+169	219295424	erisforyou	290	1	Sun, 15 Apr 2012 19:14:11 +0000	KimKardashian	RT @KimKardashian: Happy Sunday tweeps! Have a blessed day!
+170	222059137	AdrianneG_	737	1	Sun, 15 Apr 2012 19:14:13 +0000	KimKardashian	RT @KimKardashian: Happy Sunday tweeps! Have a blessed day!
+171	136407851	VICK0204	353	1	Sun, 15 Apr 2012 19:14:15 +0000	KimKardashian	RT @KimKardashian: Happy Sunday tweeps! Have a blessed day!
+172	101954493	tyogermanotta	376	1	Sun, 15 Apr 2012 19:14:15 +0000	KimKardashian	RT @KimKardashian: Happy Sunday tweeps! Have a blessed day!
+173	37249440	aislingnolan	120	1	Sun, 15 Apr 2012 19:14:20 +0000	KimKardashian	RT @KimKardashian: Happy Sunday tweeps! Have a blessed day!
+174	80231800	christysincere	49031	1	Sun, 15 Apr 2012 19:14:22 +0000	KimKardashian	Happy Sunday tweeps! Have a blessed day!  @KimKardashian
+175	70759658	Basedomg	1611	1	Sun, 15 Apr 2012 19:14:23 +0000	KimKardashian	Have a blessed booty RT @KimKardashian: Happy Sunday tweeps! Have a blessed day!
+176	61859362	Dear_Victoriaa	118	1	Sun, 15 Apr 2012 19:14:26 +0000	KimKardashian	RT @KimKardashian: Happy Sunday tweeps! Have a blessed day!
+177	266444217	Xhellyfev0	81	1	Sun, 15 Apr 2012 19:14:26 +0000	KimKardashian	RT @KimKardashian: Happy Sunday tweeps! Have a blessed day!
+178	337902642	adammccumber	164	1	Sun, 15 Apr 2012 19:14:26 +0000	KimKardashian	RT @KimKardashian: Happy Sunday tweeps! Have a blessed day!
+179	80756154	DayanisO	398	1	Sun, 15 Apr 2012 19:14:27 +0000	KimKardashian	RT @KimKardashian: Happy Sunday tweeps! Have a blessed day!
+180	271610043	weemiddletonx	265	1	Sun, 15 Apr 2012 19:14:27 +0000	KimKardashian	RT @KimKardashian: Happy Sunday tweeps! Have a blessed day!
+181	173972607	ddrivrod	122	1	Sun, 15 Apr 2012 19:14:30 +0000	KimKardashian	RT @KimKardashian: Happy Sunday tweeps! Have a blessed day!
+182	482503822	AyshaAhmad3	79	1	Sun, 15 Apr 2012 19:14:31 +0000	KimKardashian	RT @KimKardashian: Happy Sunday tweeps! Have a blessed day!
+183	174894758	NdyMymo	271	1	Sun, 15 Apr 2012 19:14:31 +0000	KimKardashian	Today is Monday, in Indonesia... Howdy, Kim :* RT @KimKardashian: Happy Sunday tweeps! Have a blessed day!
+184	345343163	caitlyntoner	154	1	Sun, 15 Apr 2012 19:14:35 +0000	KimKardashian	RT @KimKardashian: Happy Sunday tweeps! Have a blessed day!
+185	142020741	_TeamMiles	457	1	Sun, 15 Apr 2012 19:14:35 +0000	KimKardashian	RT @KimKardashian: Happy Sunday tweeps! Have a blessed day!
+186	64829055	Lord_Ronak	195	1	Sun, 15 Apr 2012 19:14:39 +0000	KimKardashian	“@KimKardashian: Happy Sunday tweeps! Have a blessed day!” #y_u_no bless me with your beauty
+187	362699306	Maui__Wowiee	57	1	Sun, 15 Apr 2012 19:14:47 +0000	KimKardashian	RT @KimKardashian: Happy Sunday tweeps! Have a blessed day!
+188	294745866	DivaDaDahl	80	1	Sun, 15 Apr 2012 19:14:49 +0000	KimKardashian	RT @KimKardashian: Happy Sunday tweeps! Have a blessed day!
+189	57843628	NatyGarciaG	95	1	Sun, 15 Apr 2012 19:14:50 +0000	KimKardashian	RT @KimKardashian: Happy Sunday tweeps! Have a blessed day!
+190	487693245	BirdsNBows	310	1	Sun, 15 Apr 2012 19:14:51 +0000	KimKardashian	RT @KimKardashian: Happy Sunday tweeps! Have a blessed day!
+191	298062412	carley_x0	345	1	Sun, 15 Apr 2012 19:14:51 +0000	KimKardashian	RT @KimKardashian: Happy Sunday tweeps! Have a blessed day!
+192	309739626	pharaohshuz	491	2	Sun, 15 Apr 2012 19:14:52 +0000	Basedomg	RT @Basedomg: Have a blessed booty RT @KimKardashian: Happy Sunday tweeps! Have a blessed day!
+193	96208123	rodbkardashian	206	1	Sun, 15 Apr 2012 19:14:53 +0000	KimKardashian	RT @KimKardashian: Happy Sunday tweeps! Have a blessed day!
+194	247400148	SidneySanae	739	1	Sun, 15 Apr 2012 19:14:54 +0000	KimKardashian	RT @KimKardashian: Happy Sunday tweeps! Have a blessed day!
+195	96403721	rosathebest	49	1	Sun, 15 Apr 2012 19:14:55 +0000	KimKardashian	RT @KimKardashian: Happy Sunday tweeps! Have a blessed day!
+196	325022047	PriscillaZajac	277	1	Sun, 15 Apr 2012 19:14:55 +0000	KimKardashian	RT @KimKardashian: Happy Sunday tweeps! Have a blessed day!
+197	256923752	AutoNanazz	291	1	Sun, 15 Apr 2012 19:14:55 +0000	KimKardashian	You 2 Kim:) but we gona go 2 bed just nw in south africa....so gudnytie!RT@KimKardashian: Happy Sunday tweeps! Have a blessed day!
+198	43977455	dannyboy_022	70	1	Sun, 15 Apr 2012 19:14:55 +0000	KimKardashian	RT @KimKardashian: Happy Sunday tweeps! Have a blessed day!
+199	49770351	JorgeZut	655	1	Sun, 15 Apr 2012 19:15:01 +0000	KimKardashian	RT @KimKardashian: Happy Sunday tweeps! Have a blessed day!
+200	56859376	alejandroconrad	226	1	Sun, 15 Apr 2012 19:15:05 +0000	KimKardashian	RT @KimKardashian: Happy Sunday tweeps! Have a blessed day!
+201	319704098	LauuuIsabel	221	1	Sun, 15 Apr 2012 19:15:14 +0000	KimKardashian	RT @KimKardashian: Happy Sunday tweeps! Have a blessed day!
+202	227520360	ValeryahRdz	113	1	Sun, 15 Apr 2012 19:15:16 +0000	KimKardashian	RT @KimKardashian: Happy Sunday tweeps! Have a blessed day!
+203	261135761	KeemarDavis	1257	1	Sun, 15 Apr 2012 19:15:18 +0000	KimKardashian	RT @KimKardashian: Happy Sunday tweeps! Have a blessed day!
+204	496614002	ShaelynGagnon	48	1	Sun, 15 Apr 2012 19:15:20 +0000	KimKardashian	RT @KimKardashian: Happy Sunday tweeps! Have a blessed day!
+205	510846748	rocio_avilav	74	1	Sun, 15 Apr 2012 19:15:22 +0000	KimKardashian	RT @KimKardashian: Happy Sunday tweeps! Have a blessed day!
+206	75238908	ThisIZFawiizzle	227	1	Sun, 15 Apr 2012 19:15:23 +0000	KimKardashian	RT @KimKardashian: Happy Sunday tweeps! Have a blessed day!
+207	142306711	TheBigCanada	403	1	Sun, 15 Apr 2012 19:15:26 +0000	KimKardashian	RT @KimKardashian: Happy Sunday tweeps! Have a blessed day!
+208	334218817	janiapaige	160	1	Sun, 15 Apr 2012 19:15:27 +0000	KimKardashian	RT @KimKardashian: Happy Sunday tweeps! Have a blessed day!
+209	342876645	Julita_Portillo	69	1	Sun, 15 Apr 2012 19:15:27 +0000	KimKardashian	RT @KimKardashian: Happy Sunday tweeps! Have a blessed day!
+210	190678265	claricabrera	135	1	Sun, 15 Apr 2012 19:15:28 +0000	KimKardashian	RT @KimKardashian: Happy Sunday tweeps! Have a blessed day!
+211	382992184	mfmcilroy43	182	1	Sun, 15 Apr 2012 19:15:37 +0000	KimKardashian	“@KimKardashian: Happy Sunday tweeps! Have a blessed day!” @margot_savin
+212	415654039	Nati_Streetz	78	1	Sun, 15 Apr 2012 19:15:40 +0000	KimKardashian	RT @KimKardashian: Happy Sunday tweeps! Have a blessed day!
+213	157018856	carlasofia23	117	1	Sun, 15 Apr 2012 19:15:40 +0000	KimKardashian	You too! RT @KimKardashian: Happy Sunday tweeps! Have a blessed day!
+214	465841946	_kayyyxo	32	1	Sun, 15 Apr 2012 19:15:41 +0000	KimKardashian	RT @KimKardashian: Happy Sunday tweeps! Have a blessed day!
+215	381908349	DirtyDianaDuHH	185	1	Sun, 15 Apr 2012 19:15:44 +0000	KimKardashian	RT @KimKardashian: Happy Sunday tweeps! Have a blessed day!
+216	441321133	BITCHBUSTA	109	2	Sun, 15 Apr 2012 19:15:45 +0000	Basedomg	RT @Basedomg: Have a blessed booty RT @KimKardashian: Happy Sunday tweeps! Have a blessed day!
+217	379482945	JessWajner	193	1	Sun, 15 Apr 2012 19:15:46 +0000	KimKardashian	RT @KimKardashian: Happy Sunday tweeps! Have a blessed day!
+218	348189426	MrsMacho	87	1	Sun, 15 Apr 2012 19:15:46 +0000	KimKardashian	RT @KimKardashian: Happy Sunday tweeps! Have a blessed day!
+219	124647525	alideely	136	1	Sun, 15 Apr 2012 19:15:48 +0000	KimKardashian	RT @KimKardashian: Happy Sunday tweeps! Have a blessed day!
+220	134671244	jsebitas	22	1	Sun, 15 Apr 2012 19:15:51 +0000	KimKardashian	RT @KimKardashian: Happy Sunday tweeps! Have a blessed day!
+221	114902404	AndreaaMarquez	450	1	Sun, 15 Apr 2012 19:15:52 +0000	KimKardashian	RT @KimKardashian: Happy Sunday tweeps! Have a blessed day!
+222	48630762	janevieee	137	1	Sun, 15 Apr 2012 19:15:52 +0000	KimKardashian	RT @KimKardashian: Happy Sunday tweeps! Have a blessed day!
+223	365319874	lexedmunds	217	1	Sun, 15 Apr 2012 19:16:01 +0000	KimKardashian	RT @KimKardashian: Happy Sunday tweeps! Have a blessed day!
+224	180902218	CorinneeeCioffi	225	1	Sun, 15 Apr 2012 19:16:01 +0000	KimKardashian	RT @KimKardashian: Happy Sunday tweeps! Have a blessed day!
+225	62899947	bethconwayx	223	1	Sun, 15 Apr 2012 19:16:01 +0000	KimKardashian	RT @KimKardashian: Happy Sunday tweeps! Have a blessed day!
+226	510677231	Vamploveeee	141	1	Sun, 15 Apr 2012 19:16:02 +0000	KimKardashian	RT @KimKardashian: Happy Sunday tweeps! Have a blessed day!
+227	None	karacolleen23	None	1	Sun, 15 Apr 2012 19:16:02 +0000	KimKardashian	RT @KimKardashian: Happy Sunday tweeps! Have a blessed day!
+228	125439608	max_cavazos	101	1	Sun, 15 Apr 2012 19:16:02 +0000	KimKardashian	RT @KimKardashian: Happy Sunday tweeps! Have a blessed day!
+229	171884732	plumpybuggs	165	1	Sun, 15 Apr 2012 19:16:02 +0000	KimKardashian	You do, mine is almost spent RT @KimKardashian: Happy Sunday tweeps! Have a blessed day!
+230	238722599	psoul222	76	1	Sun, 15 Apr 2012 19:16:04 +0000	KimKardashian	You too"@KimKardashian: Happy Sunday tweeps! Have a blessed day!"
+231	413878484	magjackson	551	1	Sun, 15 Apr 2012 19:16:05 +0000	KimKardashian	RT @KimKardashian: Happy Sunday tweeps! Have a blessed day!
+232	147637245	amybrossett	504	1	Sun, 15 Apr 2012 19:16:05 +0000	KimKardashian	RT @KimKardashian: Happy Sunday tweeps! Have a blessed day!
+233	321039616	KarenAlmanza22	137	1	Sun, 15 Apr 2012 19:16:05 +0000	KimKardashian	RT @KimKardashian: Happy Sunday tweeps! Have a blessed day!
+234	26615790	MissGibbons	267	1	Sun, 15 Apr 2012 19:16:06 +0000	KimKardashian	RT @KimKardashian: Happy Sunday tweeps! Have a blessed day!
+235	286865025	MIROXTISA	235	1	Sun, 15 Apr 2012 19:16:06 +0000	KimKardashian	RT @KimKardashian: Happy Sunday tweeps! Have a blessed day!
+236	30770164	babyfacekeish	98	1	Sun, 15 Apr 2012 19:16:11 +0000	KimKardashian	RT @KimKardashian: Happy Sunday tweeps! Have a blessed day!
+237	336783417	MiliMorantesC	89	1	Sun, 15 Apr 2012 19:16:12 +0000	KimKardashian	RT @KimKardashian: Happy Sunday tweeps! Have a blessed day!
+238	102480530	DannielaSalazar	249	1	Sun, 15 Apr 2012 19:16:13 +0000	KimKardashian	RT @KimKardashian: Happy Sunday tweeps! Have a blessed day!
+239	291990393	emmawilliams20	131	1	Sun, 15 Apr 2012 19:16:13 +0000	KimKardashian	RT @KimKardashian: Happy Sunday tweeps! Have a blessed day!
+240	539455670	MiMi_Samra	8	1	Sun, 15 Apr 2012 19:16:14 +0000	KimKardashian	RT @KimKardashian: Happy Sunday tweeps! Have a blessed day!
+241	141910423	livlloydjones	199	1	Sun, 15 Apr 2012 19:16:17 +0000	KimKardashian	RT @KimKardashian: Happy Sunday tweeps! Have a blessed day!
+242	257625796	HaileyDebrosky	28	1	Sun, 15 Apr 2012 19:16:20 +0000	KimKardashian	RT @KimKardashian: Happy Sunday tweeps! Have a blessed day!
+243	152790695	MiindaMiL	187	1	Sun, 15 Apr 2012 19:16:33 +0000	KimKardashian	RT @KimKardashian: Happy Sunday tweeps! Have a blessed day!
+244	323015618	adeliyodd	37	1	Sun, 15 Apr 2012 19:16:35 +0000	KimKardashian	RT @KimKardashian: Happy Sunday tweeps! Have a blessed day!
+245	258050936	aleviosa	231	1	Sun, 15 Apr 2012 19:16:35 +0000	KimKardashian	Cualquiera cae RT @KimKardashian: Happy Sunday tweeps! Have a blessed day!
+246	167926303	Randomchick_x3	194	1	Sun, 15 Apr 2012 19:16:45 +0000	KimKardashian	RT @KimKardashian: Happy Sunday tweeps! Have a blessed day!
+247	161424218	EricLeGaulois	77	1	Sun, 15 Apr 2012 19:16:46 +0000	KimKardashian	“@KimKardashian: Happy Sunday tweeps! Have a blessed day!”  Are you going to church? If you do, try to give a handjob to the priest, please!
+248	364665836	AliAba_alqloub	397	1	Sun, 15 Apr 2012 19:16:47 +0000	KimKardashian	RT @KimKardashian: Happy Sunday tweeps! Have a blessed day!
+249	170413989	AlejandroMD1	21	1	Sun, 15 Apr 2012 19:16:48 +0000	KimKardashian	RT @KimKardashian: Happy Sunday tweeps! Have a blessed day!
+250	353453793	FerEstrella2000	96	1	Sun, 15 Apr 2012 19:16:53 +0000	KimKardashian	RT @KimKardashian: Happy Sunday tweeps! Have a blessed day!
+251	190096635	ameliadesangles	214	1	Sun, 15 Apr 2012 19:16:53 +0000	KimKardashian	RT @KimKardashian: Happy Sunday tweeps! Have a blessed day!
+252	477977890	Airborne_Tiana	50	1	Sun, 15 Apr 2012 19:16:55 +0000	KimKardashian	RT @KimKardashian: Happy Sunday tweeps! Have a blessed day!
+253	162196074	JBlack_TG	40	1	Sun, 15 Apr 2012 19:16:55 +0000	KimKardashian	RT @KimKardashian: Happy Sunday tweeps! Have a blessed day!
+254	452123452	FrankiieeBaby_	12	1	Sun, 15 Apr 2012 19:16:56 +0000	KimKardashian	RT @KimKardashian: Happy Sunday tweeps! Have a blessed day!
+255	475511196	MScreaMFilms	281	1	Sun, 15 Apr 2012 19:16:57 +0000	KimKardashian	RT @KimKardashian: Happy Sunday tweeps! Have a blessed day!
+256	488260615	HarryMateen	62	1	Sun, 15 Apr 2012 19:16:58 +0000	KimKardashian	RT @KimKardashian: Happy Sunday tweeps! Have a blessed day!
+257	64160329	doddyprasetyo	386	1	Sun, 15 Apr 2012 19:16:58 +0000	KimKardashian	It's monday  here T_T RT @KimKardashian: Happy Sunday tweeps! Have a blessed day!
+258	235203737	MahyaKerKer	98	1	Sun, 15 Apr 2012 19:16:59 +0000	KimKardashian	RT @KimKardashian: Happy Sunday tweeps! Have a blessed day!
+259	240434189	lindabotello	160	1	Sun, 15 Apr 2012 19:16:59 +0000	KimKardashian	RT @KimKardashian: Happy Sunday tweeps! Have a blessed day!
+260	494295650	foreverKardash_	213	1	Sun, 15 Apr 2012 19:17:00 +0000	KimKardashian	"@KimKardashian: Happy Sunday tweeps! Have a blessed day!"
+261	88876428	Marichella09	100	1	Sun, 15 Apr 2012 19:17:05 +0000	KimKardashian	RT @KimKardashian: Happy Sunday tweeps! Have a blessed day!
+262	340463960	m_swaggy	313	1	Sun, 15 Apr 2012 19:17:08 +0000	KimKardashian	RT @KimKardashian: Happy Sunday tweeps! Have a blessed day!
+263	101905580	l0vely_m3	53	1	Sun, 15 Apr 2012 19:17:09 +0000	KimKardashian	RT @KimKardashian: Happy Sunday tweeps! Have a blessed day!
+264	103205145	Villars17	98	1	Sun, 15 Apr 2012 19:17:09 +0000	KimKardashian	RT @KimKardashian: Happy Sunday tweeps! Have a blessed day!
+265	302354536	heyitsreneeee	265	1	Sun, 15 Apr 2012 19:17:15 +0000	KimKardashian	RT @KimKardashian: Happy Sunday tweeps! Have a blessed day!
+266	337848079	CrystaLiina_	335	1	Sun, 15 Apr 2012 19:17:23 +0000	KimKardashian	RT @KimKardashian: Happy Sunday tweeps! Have a blessed day!
+267	279248615	karazyass	30	1	Sun, 15 Apr 2012 19:17:25 +0000	KimKardashian	RT @KimKardashian: Happy Sunday tweeps! Have a blessed day!
+268	368624744	_mdean	311	1	Sun, 15 Apr 2012 19:17:27 +0000	KimKardashian	RT @KimKardashian: Happy Sunday tweeps! Have a blessed day!
+269	76087650	cristyferrer	78	1	Sun, 15 Apr 2012 19:17:27 +0000	KimKardashian	RT @KimKardashian: Happy Sunday tweeps! Have a blessed day!
+270	280223866	kpt678	8	1	Sun, 15 Apr 2012 19:17:29 +0000	KimKardashian	RT @KimKardashian: Happy Sunday tweeps! Have a blessed day!
+271	463041181	AnnsleeDavidson	83	1	Sun, 15 Apr 2012 19:17:31 +0000	KimKardashian	RT @KimKardashian: Happy Sunday tweeps! Have a blessed day!
+272	188167116	ojaojaojaa	173	1	Sun, 15 Apr 2012 19:17:34 +0000	KimKardashian	RT @KimKardashian: Happy Sunday tweeps! Have a blessed day!
+273	365286772	SildiZari	20	1	Sun, 15 Apr 2012 19:17:35 +0000	KimKardashian	RT @KimKardashian: Happy Sunday tweeps! Have a blessed day!
+274	346664522	IsaacQuijano2	45	1	Sun, 15 Apr 2012 19:17:35 +0000	KimKardashian	RT @KimKardashian: Happy Sunday tweeps! Have a blessed day!
+275	46441053	Shipment_	240	1	Sun, 15 Apr 2012 19:17:37 +0000	KimKardashian	RT @KimKardashian: Happy Sunday tweeps! Have a blessed day!
+276	310346845	_ElleThompson_	125	1	Sun, 15 Apr 2012 19:17:39 +0000	KimKardashian	RT @KimKardashian: Happy Sunday tweeps! Have a blessed day!
+277	184886793	someeto	185	1	Sun, 15 Apr 2012 19:17:39 +0000	KimKardashian	RT @KimKardashian: Happy Sunday tweeps! Have a blessed day!
+278	439700365	barbiebanana	120	1	Sun, 15 Apr 2012 19:17:42 +0000	KimKardashian	RT @KimKardashian: Happy Sunday tweeps! Have a blessed day!
+279	549370225	AleezaAsraf	18	1	Sun, 15 Apr 2012 19:17:42 +0000	KimKardashian	RT @KimKardashian: Happy Sunday tweeps! Have a blessed day!
+280	69030799	KatherineDs	64	1	Sun, 15 Apr 2012 19:17:43 +0000	KimKardashian	RT @KimKardashian: Happy Sunday tweeps! Have a blessed day!
+281	423172791	MissDree__	124	1	Sun, 15 Apr 2012 19:17:46 +0000	KimKardashian	RT @KimKardashian: Happy Sunday tweeps! Have a blessed day!
+282	299056561	SahraaSufi	121	1	Sun, 15 Apr 2012 19:17:54 +0000	KimKardashian	"@KimKardashian: Happy Sunday tweeps! Have a blessed day!" My sundays endind its 8.30pm
+283	316143970	Kelia_KeliaC	343	1	Sun, 15 Apr 2012 19:17:55 +0000	KimKardashian	RT @KimKardashian: Happy Sunday tweeps! Have a blessed day!
+284	437122030	ErikaJuarez14	83	1	Sun, 15 Apr 2012 19:17:56 +0000	KimKardashian	RT @KimKardashian: Happy Sunday tweeps! Have a blessed day!
+285	243486063	KimiHasbuumx3	349	1	Sun, 15 Apr 2012 19:17:57 +0000	KimKardashian	RT @KimKardashian: Happy Sunday tweeps! Have a blessed day!
+286	149617355	_waduph0mie	76	1	Sun, 15 Apr 2012 19:18:00 +0000	KimKardashian	RT @KimKardashian: Happy Sunday tweeps! Have a blessed day!
+287	184842898	Olguita1D	432	1	Sun, 15 Apr 2012 19:18:09 +0000	KimKardashian	RT @KimKardashian: Happy Sunday tweeps! Have a blessed day!
+288	328697959	MrsBaddAss_10	245	1	Sun, 15 Apr 2012 19:18:13 +0000	KimKardashian	RT @KimKardashian: Happy Sunday tweeps! Have a blessed day!
+289	235477895	Chi_chi89	194	1	Sun, 15 Apr 2012 19:18:14 +0000	KimKardashian	RT @KimKardashian: Happy Sunday tweeps! Have a blessed day!
+290	160334229	liihrodriigues	191	1	Sun, 15 Apr 2012 19:18:14 +0000	KimKardashian	RT @KimKardashian: Happy Sunday tweeps! Have a blessed day!
+291	162550703	_OneAndOnlyRi	95	1	Sun, 15 Apr 2012 19:18:14 +0000	KimKardashian	RT @KimKardashian: Happy Sunday tweeps! Have a blessed day!
+292	343168575	brennanklung	176	1	Sun, 15 Apr 2012 19:18:16 +0000	KimKardashian	RT @KimKardashian: Happy Sunday tweeps! Have a blessed day!
+293	420017711	amandamkavanagh	150	1	Sun, 15 Apr 2012 19:18:17 +0000	KimKardashian	RT @KimKardashian: Happy Sunday tweeps! Have a blessed day!
+294	343500418	La_estrellital	240	1	Sun, 15 Apr 2012 19:18:19 +0000	KimKardashian	RT @KimKardashian: Happy Sunday tweeps! Have a blessed day!
+295	306842498	YoungFlyClassy2	146	1	Sun, 15 Apr 2012 19:18:19 +0000	KimKardashian	RT @KimKardashian: Happy Sunday tweeps! Have a blessed day!
+296	276055983	natttpeterson	194	1	Sun, 15 Apr 2012 19:18:20 +0000	KimKardashian	RT @KimKardashian: Happy Sunday tweeps! Have a blessed day!
+297	249501959	LayLay_65	352	1	Sun, 15 Apr 2012 19:18:21 +0000	KimKardashian	RT @KimKardashian: Happy Sunday tweeps! Have a blessed day!
+298	137896498	SERADRA	47	1	Sun, 15 Apr 2012 19:18:26 +0000	KimKardashian	RT @KimKardashian: Happy Sunday tweeps! Have a blessed day!
+299	478535601	LacesDestiny	189	1	Sun, 15 Apr 2012 19:18:41 +0000	KimKardashian	RT @KimKardashian: Happy Sunday tweeps! Have a blessed day!
+300	61443415	Victor_Hutagaol	212	1	Sun, 15 Apr 2012 19:18:42 +0000	KimKardashian	RT @KimKardashian: Happy Sunday tweeps! Have a blessed day!
+301	None	_JayyFreshh	None	2	Sun, 15 Apr 2012 19:18:42 +0000	Basedomg	RT @Basedomg: Have a blessed booty RT @KimKardashian: Happy Sunday tweeps! Have a blessed day!
+302	286446501	KiscaKardashian	475	1	Sun, 15 Apr 2012 19:18:42 +0000	KimKardashian	RT @KimKardashian: Happy Sunday tweeps! Have a blessed day!
+303	240447053	gina_ponce143	383	1	Sun, 15 Apr 2012 19:18:43 +0000	KimKardashian	RT @KimKardashian: Happy Sunday tweeps! Have a blessed day!
+304	296131120	Karlalcarballo	272	1	Sun, 15 Apr 2012 19:18:44 +0000	KimKardashian	RT @KimKardashian: Happy Sunday tweeps! Have a blessed day!
+305	103938484	Eliescoto	146	1	Sun, 15 Apr 2012 19:18:45 +0000	KimKardashian	RT @KimKardashian: Happy Sunday tweeps! Have a blessed day!
+306	336357947	RadhosFunk	256	1	Sun, 15 Apr 2012 19:18:48 +0000	KimKardashian	RT @KimKardashian: Happy Sunday tweeps! Have a blessed day!
+307	50761899	WhoeverLizzyIs	88	1	Sun, 15 Apr 2012 19:18:49 +0000	KimKardashian	RT @KimKardashian: Happy Sunday tweeps! Have a blessed day!
+308	527952839	Mandy_Galvez	17	1	Sun, 15 Apr 2012 19:18:52 +0000	KimKardashian	RT @KimKardashian: Happy Sunday tweeps! Have a blessed day!
+309	305757011	AhmadAliAbbas	29	1	Sun, 15 Apr 2012 19:18:54 +0000	KimKardashian	RT @KimKardashian: Happy Sunday tweeps! Have a blessed day!
+310	357583005	_Nezxoxo	114	1	Sun, 15 Apr 2012 19:18:56 +0000	KimKardashian	RT @KimKardashian: Happy Sunday tweeps! Have a blessed day!
+311	319469411	Zainab_Saleemi	326	1	Sun, 15 Apr 2012 19:18:58 +0000	KimKardashian	RT @KimKardashian: Happy Sunday tweeps! Have a blessed day!
+312	30803200	AnelPla	926	1	Sun, 15 Apr 2012 19:18:58 +0000	KimKardashian	RT @KimKardashian: Happy Sunday tweeps! Have a blessed day!
+313	303836273	KenzButler	362	1	Sun, 15 Apr 2012 19:19:01 +0000	KimKardashian	RT @KimKardashian: Happy Sunday tweeps! Have a blessed day!
+314	74508277	AnimalCrackers6	407	2	Sun, 15 Apr 2012 19:19:07 +0000	EricLeGaulois	“@EricLeGaulois: “@KimKardashian: Happy Sunday tweeps! Have a blessed day!” And try not to burst in to flames as you walk in the church!
+315	103176219	_NoelleMarie	603	1	Sun, 15 Apr 2012 19:19:13 +0000	KimKardashian	RT @KimKardashian: Happy Sunday tweeps! Have a blessed day!
+316	114922497	nachaolivier	54	1	Sun, 15 Apr 2012 19:19:16 +0000	KimKardashian	RT @KimKardashian: Happy Sunday tweeps! Have a blessed day!
+317	45643566	MsNina_R	67	1	Sun, 15 Apr 2012 19:19:20 +0000	KimKardashian	RT @KimKardashian: Happy Sunday tweeps! Have a blessed day!
+318	58859037	willymolko	519	2	Sun, 15 Apr 2012 19:19:21 +0000	JorgeZut	RT @JorgeZut: RT @KimKardashian: Happy Sunday tweeps! Have a blessed day!
+319	162436695	thatssonancy	87	1	Sun, 15 Apr 2012 19:19:22 +0000	KimKardashian	RT @KimKardashian: Happy Sunday tweeps! Have a blessed day!
+320	485907164	becca_mangin	47	1	Sun, 15 Apr 2012 19:19:22 +0000	KimKardashian	RT @KimKardashian: Happy Sunday tweeps! Have a blessed day!
+321	309182788	dorothycastro	15	1	Sun, 15 Apr 2012 19:19:27 +0000	KimKardashian	Amen! RT @KimKardashian: Happy Sunday tweeps! Have a blessed day!
+322	143134967	ivannamuzzo	93	1	Sun, 15 Apr 2012 19:19:28 +0000	KimKardashian	Happy Sunday tweeps! Have a blessed day!
+323	205981798	Janiehco	632	3	Sun, 15 Apr 2012 19:19:29 +0000	AnimalCrackers6	RT @AnimalCrackers6: “@EricLeGaulois: “@KimKardashian: Happy Sunday tweeps! Have a blessed day!” And try not to burst in to flames as you walk in the church!
+324	516842626	bigbabydaniels	105	1	Sun, 15 Apr 2012 19:19:31 +0000	KimKardashian	RT @KimKardashian: Happy Sunday tweeps! Have a blessed day!
+325	125780184	Sandrabh29	682	1	Sun, 15 Apr 2012 19:19:32 +0000	KimKardashian	RT @KimKardashian: Happy Sunday tweeps! Have a blessed day!
+326	309418603	Maaf_LJ	135	1	Sun, 15 Apr 2012 19:19:36 +0000	KimKardashian	RT @KimKardashian: Happy Sunday tweeps! Have a blessed day!
+327	346486012	cjekanem	14	1	Sun, 15 Apr 2012 19:19:37 +0000	KimKardashian	Same to you. Go to church. RT @KimKardashian: Happy Sunday tweeps! Have a blessed day!
+328	70810960	olivfrann	786	1	Sun, 15 Apr 2012 19:19:38 +0000	KimKardashian	RT @KimKardashian: Happy Sunday tweeps! Have a blessed day!
+329	276882352	Yadigurljones	683	1	Sun, 15 Apr 2012 19:19:39 +0000	KimKardashian	RT @KimKardashian: Happy Sunday tweeps! Have a blessed day!
+330	303139732	mindlesserly_	119	1	Sun, 15 Apr 2012 19:19:40 +0000	KimKardashian	RT @KimKardashian: Happy Sunday tweeps! Have a blessed day!
+331	78087602	2NattyRee1	96	1	Sun, 15 Apr 2012 19:19:46 +0000	KimKardashian	RT @KimKardashian: Happy Sunday tweeps! Have a blessed day!
+332	104756960	Hlali_Sweets	84	1	Sun, 15 Apr 2012 19:19:50 +0000	KimKardashian	Rena rea robala kim RT @KimKardashian: Happy Sunday tweeps! Have a blessed day!
+333	71977224	alexaBrambila	159	1	Sun, 15 Apr 2012 19:19:55 +0000	KimKardashian	RT @KimKardashian: Happy Sunday tweeps! Have a blessed day!
+334	152372655	Claudiakardash	516	1	Sun, 15 Apr 2012 19:20:02 +0000	KimKardashian	RT @KimKardashian: Happy Sunday tweeps! Have a blessed day!
+335	284701639	lashay_milani	491	1	Sun, 15 Apr 2012 19:20:03 +0000	KimKardashian	RT @KimKardashian: Happy Sunday tweeps! Have a blessed day!
+336	464672502	Juliebergstein	51	1	Sun, 15 Apr 2012 19:20:07 +0000	KimKardashian	RT @KimKardashian: Happy Sunday tweeps! Have a blessed day!
+337	343860891	BubbleGumZii	5	1	Sun, 15 Apr 2012 19:20:11 +0000	KimKardashian	RT @KimKardashian: Happy Sunday tweeps! Have a blessed day!
+338	141332956	SDSpaStudio	206	1	Sun, 15 Apr 2012 19:20:16 +0000	KimKardashian	Happy Sunday tweeps! Have a blessed day!
+339	186154065	platinum_xoxo	507	2	Sun, 15 Apr 2012 19:20:16 +0000	Basedomg	RT @Basedomg: Have a blessed booty RT @KimKardashian: Happy Sunday tweeps! Have a blessed day!
+340	75450292	ElenaGovea	729	1	Sun, 15 Apr 2012 19:20:18 +0000	KimKardashian	RT @KimKardashian: Happy Sunday tweeps! Have a blessed day!
+341	493392202	laguerajenny	244	1	Sun, 15 Apr 2012 19:20:19 +0000	KimKardashian	RT @KimKardashian: Happy Sunday tweeps! Have a blessed day!
+342	248229098	pretty_lisa2010	139	1	Sun, 15 Apr 2012 19:20:22 +0000	KimKardashian	RT @KimKardashian: Happy Sunday tweeps! Have a blessed day!
+343	44357692	Haya2222	244	1	Sun, 15 Apr 2012 19:20:29 +0000	KimKardashian	“@KimKardashian: Happy Sunday tweeps! Have a blessed day!”
+344	393109951	DJPaulyB15	27	1	Sun, 15 Apr 2012 19:20:37 +0000	KimKardashian	RT @KimKardashian: Happy Sunday tweeps! Have a blessed day!
+345	188053577	TiRAWno	266	1	Sun, 15 Apr 2012 19:20:40 +0000	KimKardashian	“@KimKardashian: Happy Sunday tweeps! Have a blessed day!” &gt; same to you baby
+346	281342087	maddieobill	258	1	Sun, 15 Apr 2012 19:20:53 +0000	KimKardashian	RT @KimKardashian: Happy Sunday tweeps! Have a blessed day!
+347	143676683	MzSweetness26	138	1	Sun, 15 Apr 2012 19:20:57 +0000	KimKardashian	RT @KimKardashian: Happy Sunday tweeps! Have a blessed day!
+348	528129904	LDurk	28	1	Sun, 15 Apr 2012 19:21:11 +0000	KimKardashian	RT @KimKardashian: Happy Sunday tweeps! Have a blessed day!
+349	57246450	teamdrw	96	1	Sun, 15 Apr 2012 19:21:16 +0000	KimKardashian	RT @KimKardashian: Happy Sunday tweeps! Have a blessed day!
+350	87837260	Molly_Backus	60	1	Sun, 15 Apr 2012 19:21:18 +0000	KimKardashian	RT @KimKardashian: Happy Sunday tweeps! Have a blessed day!
+351	43938688	olga_mbencomo	205	1	Sun, 15 Apr 2012 19:21:19 +0000	KimKardashian	RT @KimKardashian: Happy Sunday tweeps! Have a blessed day!
+352	46986260	_Chelseaaaaaa_	79	1	Sun, 15 Apr 2012 19:21:25 +0000	KimKardashian	RT @KimKardashian: Happy Sunday tweeps! Have a blessed day!
+353	308120094	DianaSolano25	178	1	Sun, 15 Apr 2012 19:21:27 +0000	KimKardashian	RT @KimKardashian: Happy Sunday tweeps! Have a blessed day!
+354	319735447	LloydCameronTap	72	1	Sun, 15 Apr 2012 19:21:28 +0000	KimKardashian	"@KimKardashian: Happy Sunday tweeps! Have a blessed day!" And you
+355	222066116	hassansabari	4	1	Sun, 15 Apr 2012 19:21:45 +0000	KimKardashian	RT @KimKardashian: Happy Sunday tweeps! Have a blessed day!
+356	440895141	callumhamptonn	162	1	Sun, 15 Apr 2012 19:21:47 +0000	KimKardashian	RT @KimKardashian: Happy Sunday tweeps! Have a blessed day!
+357	29079147	TiTAdaDIVA	831	1	Sun, 15 Apr 2012 19:21:51 +0000	KimKardashian	RT @KimKardashian: Happy Sunday tweeps! Have a blessed day!
+358	102141345	ManudeQuevedo	143	1	Sun, 15 Apr 2012 19:21:53 +0000	KimKardashian	Happy Sunday tweeps! Have a blessed day!
+359	318529393	YaniParra	165	1	Sun, 15 Apr 2012 19:21:56 +0000	KimKardashian	RT @KimKardashian: Happy Sunday tweeps! Have a blessed day!
+360	103681338	Lagudah	881	1	Sun, 15 Apr 2012 19:21:57 +0000	KimKardashian	Hoe loshi "@KimKardashian: Happy Sunday tweeps! Have a blessed day!"
+361	220535778	BoWmiNaToR	229	1	Sun, 15 Apr 2012 19:21:57 +0000	KimKardashian	RT @KimKardashian: Happy Sunday tweeps! Have a blessed day!
+362	493499531	oluwas3un	94	1	Sun, 15 Apr 2012 19:21:59 +0000	KimKardashian	No bible study today?RT @KimKardashian: Happy Sunday tweeps! Have a blessed day!
+363	450181874	MarilinDiaz2	27	1	Sun, 15 Apr 2012 19:22:03 +0000	KimKardashian	RT @KimKardashian: Happy Sunday tweeps! Have a blessed day!
+364	290642871	supshanice	212	1	Sun, 15 Apr 2012 19:22:03 +0000	KimKardashian	RT @KimKardashian: Happy Sunday tweeps! Have a blessed day!
+365	291435133	datgirlisabella	181	1	Sun, 15 Apr 2012 19:22:04 +0000	KimKardashian	RT @KimKardashian: Happy Sunday tweeps! Have a blessed day!
+366	551098637	Harry_Styless66	20	1	Sun, 15 Apr 2012 19:22:04 +0000	KimKardashian	RT @KimKardashian: Happy Sunday tweeps! Have a blessed day!
+367	56657188	fatmegaloman	407	1	Sun, 15 Apr 2012 19:22:05 +0000	KimKardashian	E lolok, uda senin subuh ni.. Gila! RT @KimKardashian: Happy Sunday tweeps! Have a blessed day!
+368	487347736	missydeemasanda	28	1	Sun, 15 Apr 2012 19:22:05 +0000	KimKardashian	RT @KimKardashian: Happy Sunday tweeps! Have a blessed day!
+369	167192774	_kristinnn_	192	1	Sun, 15 Apr 2012 19:22:05 +0000	KimKardashian	RT @KimKardashian: Happy Sunday tweeps! Have a blessed day!
+370	429316067	raquel_elainexo	78	1	Sun, 15 Apr 2012 19:22:10 +0000	KimKardashian	RT @KimKardashian: Happy Sunday tweeps! Have a blessed day!
+371	342873985	Kayguninn	33	1	Sun, 15 Apr 2012 19:22:12 +0000	KimKardashian	RT @KimKardashian: Happy Sunday tweeps! Have a blessed day!
+372	311711549	CokoBunni	443	1	Sun, 15 Apr 2012 19:22:12 +0000	KimKardashian	RT @KimKardashian: Happy Sunday tweeps! Have a blessed day!
+373	274621618	StunningJM_03	31	1	Sun, 15 Apr 2012 19:22:13 +0000	KimKardashian	RT @KimKardashian: Happy Sunday tweeps! Have a blessed day!
+374	245082228	DJDanCortez	148	1	Sun, 15 Apr 2012 19:22:13 +0000	KimKardashian	Thanks girl, you too, smooches ... x "@KimKardashian: Happy Sunday tweeps! Have a blessed day!"
+375	171860894	52boray	54	1	Sun, 15 Apr 2012 19:22:20 +0000	KimKardashian	RT @KimKardashian: Happy Sunday tweeps! Have a blessed day!
+376	66938710	Arazie0725	541	1	Sun, 15 Apr 2012 19:22:26 +0000	KimKardashian	Have a Blessed Day Kiki~ =) “@KimKardashian: Happy Sunday tweeps! Have a blessed day!
+377	None	Jass_girlsxoxo	None	1	Sun, 15 Apr 2012 19:22:30 +0000	KimKardashian	RT @KimKardashian: Happy Sunday tweeps! Have a blessed day!
+378	304768476	TheRealTISHJ	117	1	Sun, 15 Apr 2012 19:22:33 +0000	KimKardashian	RT @KimKardashian: Happy Sunday tweeps! Have a blessed day!
+379	134226828	Wilmadsg	153	1	Sun, 15 Apr 2012 19:22:37 +0000	KimKardashian	RT @KimKardashian: Happy Sunday tweeps! Have a blessed day!
+380	98977979	inspired_mike	255	1	Sun, 15 Apr 2012 19:22:39 +0000	KimKardashian	RT @KimKardashian: Happy Sunday tweeps! Have a blessed day!
+381	403147669	AndreaCociuba	62	1	Sun, 15 Apr 2012 19:22:39 +0000	KimKardashian	RT @KimKardashian: Happy Sunday tweeps! Have a blessed day!
+382	225047658	AmyMcCrudden	121	1	Sun, 15 Apr 2012 19:22:42 +0000	KimKardashian	RT @KimKardashian: Happy Sunday tweeps! Have a blessed day!
+383	462297826	SodaMoreno	165	1	Sun, 15 Apr 2012 19:22:49 +0000	KimKardashian	RT @KimKardashian: Happy Sunday tweeps! Have a blessed day!
+384	258354595	MrLovett__	329	1	Sun, 15 Apr 2012 19:22:51 +0000	KimKardashian	RT @KimKardashian: Happy Sunday tweeps! Have a blessed day!
+385	61388550	BERONICA24	166	1	Sun, 15 Apr 2012 19:22:56 +0000	KimKardashian	RT @KimKardashian: Happy Sunday tweeps! Have a blessed day!
+386	144738374	unyil__	897	1	Sun, 15 Apr 2012 19:22:58 +0000	KimKardashian	Wes senin dyes! RT @KimKardashian: Happy Sunday tweeps! Have a blessed day!
+387	330720555	ckeeb	346	1	Sun, 15 Apr 2012 19:23:02 +0000	KimKardashian	"@KimKardashian: Happy Sunday tweeps! Have a blessed day!" What a hoe, go to church
+388	553517448	AryanYogesh	2	1	Sun, 15 Apr 2012 19:23:04 +0000	KimKardashian	RT @KimKardashian: Happy Sunday tweeps! Have a blessed day!
+389	520543473	russellbaker6	14	1	Sun, 15 Apr 2012 19:23:04 +0000	KimKardashian	RT @KimKardashian: Happy Sunday tweeps! Have a blessed day!
+390	376809162	just_good_time	16	1	Sun, 15 Apr 2012 19:23:08 +0000	KimKardashian	RT @KimKardashian: Happy Sunday tweeps! Have a blessed day!
+391	251287710	adaniacs	291	1	Sun, 15 Apr 2012 19:23:10 +0000	KimKardashian	"@KimKardashian: Happy Sunday tweeps! Have a blessed day!" You tooo kim! &lt;3 :)
+392	93683128	KKdollsforever	867	1	Sun, 15 Apr 2012 19:23:23 +0000	KimKardashian	RT @KimKardashian: Happy Sunday tweeps! Have a blessed day!
+393	25885410	Antodarlingg	166	1	Sun, 15 Apr 2012 19:23:23 +0000	KimKardashian	RT @KimKardashian: Happy Sunday tweeps! Have a blessed day!
+394	80416777	jeanapruim	113	1	Sun, 15 Apr 2012 19:23:32 +0000	KimKardashian	RT @KimKardashian: Happy Sunday tweeps! Have a blessed day!
+395	None	elttil__retsnom	None	1	Sun, 15 Apr 2012 19:23:37 +0000	KimKardashian	RT @KimKardashian: Happy Sunday tweeps! Have a blessed day!
+396	214989438	sugg_all	237	1	Sun, 15 Apr 2012 19:23:39 +0000	KimKardashian	RT @KimKardashian: Happy Sunday tweeps! Have a blessed day!
+397	216437337	top_tw_fashion	143	1	Sun, 15 Apr 2012 19:23:40 +0000	KimKardashian	RT @KimKardashian: Happy Sunday tweeps! Have a blessed day!
+398	174116870	SunnyB0N0	1512	1	Sun, 15 Apr 2012 19:23:42 +0000	KimKardashian	RT @KimKardashian Happy Sunday tweeps! Have a blessed day!
+399	464276279	Ange94410	33	1	Sun, 15 Apr 2012 19:23:46 +0000	KimKardashian	RT @KimKardashian: Happy Sunday tweeps! Have a blessed day!
+400	143055898	Tiffany_NicoleN	171	1	Sun, 15 Apr 2012 19:23:50 +0000	KimKardashian	RT @KimKardashian: Happy Sunday tweeps! Have a blessed day!
+401	199922607	kiss_myy_kicks	231	1	Sun, 15 Apr 2012 19:23:51 +0000	KimKardashian	RT @KimKardashian: Happy Sunday tweeps! Have a blessed day!
+402	214820537	tw_top_ent	384483	1	Sun, 15 Apr 2012 19:23:51 +0000	KimKardashian	RT @KimKardashian: Happy Sunday tweeps! Have a blessed day!
+403	133033376	Barbie_Kardash	122	1	Sun, 15 Apr 2012 19:23:58 +0000	KimKardashian	RT @KimKardashian: Happy Sunday tweeps! Have a blessed day!
+404	341861187	saarahbailey	527	1	Sun, 15 Apr 2012 19:24:10 +0000	KimKardashian	RT @KimKardashian: Happy Sunday tweeps! Have a blessed day!
+405	121978851	ItsFrank_	347	1	Sun, 15 Apr 2012 19:24:10 +0000	KimKardashian	RT @KimKardashian: Happy Sunday tweeps! Have a blessed day!
+406	122206441	x_simplyBRI	789	1	Sun, 15 Apr 2012 19:24:23 +0000	KimKardashian	RT @KimKardashian: Happy Sunday tweeps! Have a blessed day!
+407	176820183	needmoregreens	513	3	Sun, 15 Apr 2012 19:24:30 +0000	AnimalCrackers6	RT @AnimalCrackers6: “@EricLeGaulois: “@KimKardashian: Happy Sunday tweeps! Have a blessed day!” And try not to burst in to flames as you walk in the church!
+408	52144917	priscilla_lynne	91	1	Sun, 15 Apr 2012 19:24:31 +0000	KimKardashian	RT @KimKardashian: Happy Sunday tweeps! Have a blessed day!
+409	333761695	CharCMF4	10	1	Sun, 15 Apr 2012 19:24:39 +0000	KimKardashian	RT @KimKardashian: Happy Sunday tweeps! Have a blessed day!
+410	172957846	ReginaMaPe	171	1	Sun, 15 Apr 2012 19:24:45 +0000	KimKardashian	RT @KimKardashian: Happy Sunday tweeps! Have a blessed day!
+411	393549517	MC_XBO	42	1	Sun, 15 Apr 2012 19:24:52 +0000	KimKardashian	You to kim RT @KimKardashian: Happy Sunday tweeps! Have a blessed day!
+412	145626215	silvieetoma	150	1	Sun, 15 Apr 2012 19:24:57 +0000	KimKardashian	RT @KimKardashian: Happy Sunday tweeps! Have a blessed day!
+413	261847712	NoelleV95	40	1	Sun, 15 Apr 2012 19:25:03 +0000	KimKardashian	RT @KimKardashian: Happy Sunday tweeps! Have a blessed day!
+414	36730454	iman_table	37	1	Sun, 15 Apr 2012 19:25:04 +0000	KimKardashian	"@KimKardashian: Happy Sunday tweeps! Have a blessed day!" Don't wanna be mean but I'm about to go to bed lmao piss off xx
+415	203537967	ikeboettger	432	1	Sun, 15 Apr 2012 19:25:10 +0000	KimKardashian	RT @KimKardashian: Happy Sunday tweeps! Have a blessed day!
+416	205981798	Janiehco	633	2	Sun, 15 Apr 2012 19:25:15 +0000	EricLeGaulois	RT @EricLeGaulois: “@KimKardashian: Happy Sunday tweeps! Have a blessed day!”  Are you going to church? If you do, try to give a handjob to the priest, please!
+417	379143286	_baaBis	164	1	Sun, 15 Apr 2012 19:25:22 +0000	KimKardashian	RT @KimKardashian: Happy Sunday tweeps! Have a blessed day!
+418	248094395	SarahWints	221	1	Sun, 15 Apr 2012 19:25:22 +0000	KimKardashian	RT @KimKardashian: Happy Sunday tweeps! Have a blessed day!
+419	419196982	rmfv6666	13	1	Sun, 15 Apr 2012 19:25:23 +0000	KimKardashian	RT @KimKardashian: Happy Sunday tweeps! Have a blessed day!
+420	335341384	_BellaDoll	167	1	Sun, 15 Apr 2012 19:25:28 +0000	KimKardashian	RT @KimKardashian: Happy Sunday tweeps! Have a blessed day!
+421	416518481	lovedariela	29	1	Sun, 15 Apr 2012 19:25:33 +0000	KimKardashian	RT @KimKardashian: Happy Sunday tweeps! Have a blessed day!
+422	321796602	NatalieMarie36	78	1	Sun, 15 Apr 2012 19:25:33 +0000	KimKardashian	RT @KimKardashian: Happy Sunday tweeps! Have a blessed day!
+423	158476265	BernardoMontero	238	1	Sun, 15 Apr 2012 19:25:34 +0000	KimKardashian	RT @KimKardashian: Happy Sunday tweeps! Have a blessed day!
+424	369212014	patty_babe	129	1	Sun, 15 Apr 2012 19:25:36 +0000	KimKardashian	RT @KimKardashian: Happy Sunday tweeps! Have a blessed day!
+425	539647179	scotianmumy	4	1	Sun, 15 Apr 2012 19:25:36 +0000	KimKardashian	RT @KimKardashian: Happy Sunday tweeps! Have a blessed day!
+426	48754049	rainyyperez	117	1	Sun, 15 Apr 2012 19:25:41 +0000	KimKardashian	RT @KimKardashian: Happy Sunday tweeps! Have a blessed day!
+427	536742084	Adriananovoa18	79	2	Sun, 15 Apr 2012 19:25:44 +0000	CLAUDIAVBENITEZ	RT @CLAUDIAVBENITEZ: HoneyRT "@KimKardashian: Happy Sunday tweeps! Have a blessed day!"
+428	100698991	LexiC25	81	1	Sun, 15 Apr 2012 19:25:48 +0000	KimKardashian	RT @KimKardashian: Happy Sunday tweeps! Have a blessed day!
+429	279584344	dakmarcanto	68	1	Sun, 15 Apr 2012 19:25:49 +0000	KimKardashian	RT @KimKardashian: Happy Sunday tweeps! Have a blessed day!
+430	330528304	FuckTha_Feds	307	1	Sun, 15 Apr 2012 19:25:52 +0000	KimKardashian	RT @KimKardashian: Happy Sunday tweeps! Have a blessed day!
+431	93699010	raybahbug	123	1	Sun, 15 Apr 2012 19:25:54 +0000	KimKardashian	RT @KimKardashian: Happy Sunday tweeps! Have a blessed day!
+432	127255115	DanielBaywolf	171	1	Sun, 15 Apr 2012 19:25:57 +0000	KimKardashian	RT @KimKardashian: Happy Sunday tweeps! Have a blessed day!
+433	152234878	Starzareme_	224	1	Sun, 15 Apr 2012 19:25:57 +0000	KimKardashian	RT @KimKardashian: Happy Sunday tweeps! Have a blessed day!
+434	443390420	brittmonroe_	198	1	Sun, 15 Apr 2012 19:26:08 +0000	KimKardashian	RT @KimKardashian: Happy Sunday tweeps! Have a blessed day!
+435	500406111	SusieChaney	148	1	Sun, 15 Apr 2012 19:26:24 +0000	KimKardashian	RT @KimKardashian: Happy Sunday tweeps! Have a blessed day!
+436	33171830	georgiaireland	304	1	Sun, 15 Apr 2012 19:26:25 +0000	KimKardashian	RT @KimKardashian: Happy Sunday tweeps! Have a blessed day!
+437	38216923	RUDE_Beauty	392	1	Sun, 15 Apr 2012 19:26:37 +0000	KimKardashian	«@KimKardashian Happy Sunday tweeps! Have a blessed day!»
+438	364609723	C_RAYYY5	214	1	Sun, 15 Apr 2012 19:26:40 +0000	KimKardashian	RT @KimKardashian: Happy Sunday tweeps! Have a blessed day!
+439	302323346	NaticaPatarroyo	52	1	Sun, 15 Apr 2012 19:26:41 +0000	KimKardashian	RT @KimKardashian: Happy Sunday tweeps! Have a blessed day!
+440	116545272	Marianam92	170	1	Sun, 15 Apr 2012 19:26:43 +0000	KimKardashian	Loveu :* RT "@KimKardashian: Happy Sunday tweeps! Have a blessed day!"
+441	264437256	KimDosCrucez	106	1	Sun, 15 Apr 2012 19:26:47 +0000	KimKardashian	RT @KimKardashian: Happy Sunday tweeps! Have a blessed day!
+442	239620426	danielbrauer00	129	2	Sun, 15 Apr 2012 19:26:49 +0000	ckeeb	RT @ckeeb: "@KimKardashian: Happy Sunday tweeps! Have a blessed day!" What a hoe, go to church
+443	24055632	PeterRayM	197	1	Sun, 15 Apr 2012 19:27:02 +0000	KimKardashian	RT @KimKardashian: Happy Sunday tweeps! Have a blessed day!
+444	536864761	TylaTyla2	9	1	Sun, 15 Apr 2012 19:27:12 +0000	KimKardashian	RT @KimKardashian: Happy Sunday tweeps! Have a blessed day!
+445	57303873	Chaa_Chou	28	1	Sun, 15 Apr 2012 19:27:25 +0000	KimKardashian	RT @KimKardashian: Happy Sunday tweeps! Have a blessed day!
+446	253747246	kharlamorenoo	174	1	Sun, 15 Apr 2012 19:27:32 +0000	KimKardashian	"@KimKardashian: Happy Sunday tweeps! Have a blessed day!" / mira @noealemantoledo jajajaja
+447	None	libbigaikkkk	None	1	Sun, 15 Apr 2012 19:27:45 +0000	KimKardashian	RT @KimKardashian: Happy Sunday tweeps! Have a blessed day!
+448	178882011	TomSlane	123	1	Sun, 15 Apr 2012 19:27:46 +0000	KimKardashian	RT @KimKardashian: Happy Sunday tweeps! Have a blessed day!
+449	138080699	jillbakes	227	1	Sun, 15 Apr 2012 19:27:56 +0000	KimKardashian	RT @KimKardashian: Happy Sunday tweeps! Have a blessed day!
+450	436069465	KardashJennerK	823	1	Sun, 15 Apr 2012 19:28:01 +0000	KimKardashian	RT @KimKardashian: Happy Sunday tweeps! Have a blessed day!
+451	460580398	Gabundis18	34	1	Sun, 15 Apr 2012 19:28:08 +0000	KimKardashian	RT @KimKardashian: Happy Sunday tweeps! Have a blessed day!
+452	358142145	caseydanielle_e	175	1	Sun, 15 Apr 2012 19:28:13 +0000	KimKardashian	RT @KimKardashian: Happy Sunday tweeps! Have a blessed day!
+453	385710054	AnnieSalman	46	1	Sun, 15 Apr 2012 19:28:17 +0000	KimKardashian	RT @KimKardashian: Happy Sunday tweeps! Have a blessed day!
+454	85372596	victoriapabst	316	1	Sun, 15 Apr 2012 19:28:19 +0000	KimKardashian	RT @KimKardashian: Happy Sunday tweeps! Have a blessed day!
+455	553046341	NivasSexiness	25	1	Sun, 15 Apr 2012 19:28:20 +0000	KimKardashian	RT @KimKardashian: Happy Sunday tweeps! Have a blessed day!
+456	219868851	marcellasteles	203	1	Sun, 15 Apr 2012 19:28:28 +0000	KimKardashian	RT @KimKardashian: Happy Sunday tweeps! Have a blessed day!
+457	164040286	NachaValdivieso	131	1	Sun, 15 Apr 2012 19:28:34 +0000	KimKardashian	RT @KimKardashian: Happy Sunday tweeps! Have a blessed day!
+458	34742492	AbbyAlaniz	100	1	Sun, 15 Apr 2012 19:28:35 +0000	KimKardashian	RT @KimKardashian: Happy Sunday tweeps! Have a blessed day!
+459	527395091	EmilyPageOx	148	1	Sun, 15 Apr 2012 19:28:35 +0000	KimKardashian	RT @KimKardashian: Happy Sunday tweeps! Have a blessed day!
+460	347903854	Spaid_am	33	1	Sun, 15 Apr 2012 19:28:36 +0000	KimKardashian	RT @KimKardashian: Happy Sunday tweeps! Have a blessed day!
+461	53186210	SteBordonaro	81	1	Sun, 15 Apr 2012 19:28:39 +0000	KimKardashian	RT @KimKardashian: Happy Sunday tweeps! Have a blessed day!
+462	79034120	Emon_IGuess	143	1	Sun, 15 Apr 2012 19:28:44 +0000	KimKardashian	RT @KimKardashian: Happy Sunday tweeps! Have a blessed day!
+463	366239178	TheLexiV143	328	1	Sun, 15 Apr 2012 19:28:44 +0000	KimKardashian	RT @KimKardashian: Happy Sunday tweeps! Have a blessed day!
+464	280318474	clarkeafterdark	169	1	Sun, 15 Apr 2012 19:28:50 +0000	KimKardashian	RT @KimKardashian: Happy Sunday tweeps! Have a blessed day!
+465	399103369	ImyBlad	60	1	Sun, 15 Apr 2012 19:28:52 +0000	KimKardashian	RT @KimKardashian: Happy Sunday tweeps! Have a blessed day!
+466	406169044	hannahstainton2	39	1	Sun, 15 Apr 2012 19:28:52 +0000	KimKardashian	RT @KimKardashian: Happy Sunday tweeps! Have a blessed day!
+467	380428915	JessGenkil	126	1	Sun, 15 Apr 2012 19:28:55 +0000	KimKardashian	RT @KimKardashian: Happy Sunday tweeps! Have a blessed day!
+468	308303701	AshleyMorris923	60	1	Sun, 15 Apr 2012 19:29:01 +0000	KimKardashian	RT @KimKardashian: Happy Sunday tweeps! Have a blessed day!
+469	418386524	kimmkardashians	1000	1	Sun, 15 Apr 2012 19:29:04 +0000	KimKardashian	Happy Sunday tweeps! Have a blessed day! http://t.co/KjpyqSfa
+470	123374070	EndriPeace	116	1	Sun, 15 Apr 2012 19:29:24 +0000	KimKardashian	RT @KimKardashian: Happy Sunday tweeps! Have a blessed day!
+471	86160417	_sehammy12	226	1	Sun, 15 Apr 2012 19:29:27 +0000	KimKardashian	RT @KimKardashian: Happy Sunday tweeps! Have a blessed day!
+472	480702770	gswagnificent	17	1	Sun, 15 Apr 2012 19:29:29 +0000	KimKardashian	RT @KimKardashian: Happy Sunday tweeps! Have a blessed day!
+473	247669841	KarlaKardash	1579	1	Sun, 15 Apr 2012 19:29:57 +0000	KimKardashian	RT @KimKardashian: Happy Sunday tweeps! Have a blessed day!
+474	333573750	sarah_osborne11	385	1	Sun, 15 Apr 2012 19:30:03 +0000	KimKardashian	RT @KimKardashian: Happy Sunday tweeps! Have a blessed day!
+475	74277370	chynadoll74	82	1	Sun, 15 Apr 2012 19:30:07 +0000	KimKardashian	RT @KimKardashian: Happy Sunday tweeps! Have a blessed day!
+476	379257446	aguilar_pink	127	1	Sun, 15 Apr 2012 19:30:22 +0000	KimKardashian	RT @KimKardashian: Happy Sunday tweeps! Have a blessed day!
+477	370981807	AfPau	204	1	Sun, 15 Apr 2012 19:30:26 +0000	KimKardashian	RT @KimKardashian: Happy Sunday tweeps! Have a blessed day!
+478	215647699	LeaSantoss	320	1	Sun, 15 Apr 2012 19:30:28 +0000	KimKardashian	RT @KimKardashian: Happy Sunday tweeps! Have a blessed day!
+479	181292288	RachelFavre	302	1	Sun, 15 Apr 2012 19:30:54 +0000	KimKardashian	RT @KimKardashian: Happy Sunday tweeps! Have a blessed day!
+480	184197158	goodntam	358	1	Sun, 15 Apr 2012 19:31:00 +0000	KimKardashian	RT @KimKardashian: Happy Sunday tweeps! Have a blessed day!
+481	552777856	LoveMyPillow	9	1	Sun, 15 Apr 2012 19:31:08 +0000	KimKardashian	RT @KimKardashian: Happy Sunday tweeps! Have a blessed day!
+482	141400764	143ItsEmily	343	1	Sun, 15 Apr 2012 19:31:14 +0000	KimKardashian	RT @KimKardashian: Happy Sunday tweeps! Have a blessed day!
+483	307769114	kakakakris	214	1	Sun, 15 Apr 2012 19:31:36 +0000	KimKardashian	RT @KimKardashian: Happy Sunday tweeps! Have a blessed day!
+484	430050973	SashasalsaTW	1247	1	Sun, 15 Apr 2012 19:31:42 +0000	KimKardashian	RT @KimKardashian: Happy Sunday tweeps! Have a blessed day!
+485	249595177	Luciahdzr	42	1	Sun, 15 Apr 2012 19:31:42 +0000	KimKardashian	RT @KimKardashian: Happy Sunday tweeps! Have a blessed day!
+486	254655105	aliigiirl	173	1	Sun, 15 Apr 2012 19:32:18 +0000	KimKardashian	RT @KimKardashian: Happy Sunday tweeps! Have a blessed day!
+487	312797256	TaraStallion	104	1	Sun, 15 Apr 2012 19:32:20 +0000	KimKardashian	RT @KimKardashian: Happy Sunday tweeps! Have a blessed day!
+488	401794468	fancycurves78	93	1	Sun, 15 Apr 2012 19:32:21 +0000	KimKardashian	RT @KimKardashian: Happy Sunday tweeps! Have a blessed day!
+489	403183632	itscarleeyy	108	1	Sun, 15 Apr 2012 19:32:23 +0000	KimKardashian	RT @KimKardashian: Happy Sunday tweeps! Have a blessed day!
+490	551414384	alejandra6444	3	1	Sun, 15 Apr 2012 19:32:26 +0000	KimKardashian	RT @KimKardashian: Happy Sunday tweeps! Have a blessed day!
+491	151476703	MineRosillo	125	1	Sun, 15 Apr 2012 19:32:29 +0000	KimKardashian	RT"@KimKardashian: Happy Sunday tweeps! Have a blessed day!"
+492	519197083	BossAija	8	1	Sun, 15 Apr 2012 19:32:44 +0000	KimKardashian	RT @KimKardashian: Happy Sunday tweeps! Have a blessed day!
+493	514425125	bacardidu84	0	1	Sun, 15 Apr 2012 19:32:46 +0000	KimKardashian	RT @KimKardashian: Happy Sunday tweeps! Have a blessed day!
+494	452689932	dakotalove333	125	1	Sun, 15 Apr 2012 19:32:56 +0000	KimKardashian	RT @KimKardashian: Happy Sunday tweeps! Have a blessed day!
+495	554305102	MeganCooke5	8	1	Sun, 15 Apr 2012 19:32:59 +0000	KimKardashian	RT @KimKardashian: Happy Sunday tweeps! Have a blessed day!
+496	461546351	claudiineLM	74	1	Sun, 15 Apr 2012 19:33:03 +0000	KimKardashian	RT @KimKardashian: Happy Sunday tweeps! Have a blessed day!
+497	279748564	wildbeaut	181	1	Sun, 15 Apr 2012 19:33:05 +0000	KimKardashian	RT @KimKardashian: Happy Sunday tweeps! Have a blessed day!
+498	358798992	kalknight	198	1	Sun, 15 Apr 2012 19:33:26 +0000	KimKardashian	RT @KimKardashian: Happy Sunday tweeps! Have a blessed day!
+499	34522357	yolykush	132	1	Sun, 15 Apr 2012 19:33:26 +0000	KimKardashian	RT @KimKardashian: Happy Sunday tweeps! Have a blessed day!
+500	404056040	ellenaitken22	112	1	Sun, 15 Apr 2012 19:33:31 +0000	KimKardashian	“@KimKardashian: Happy Sunday tweeps! Have a blessed day!”
+501	307458787	Jim_LDN	33	1	Sun, 15 Apr 2012 19:33:40 +0000	KimKardashian	RT @KimKardashian: Happy Sunday tweeps! Have a blessed day!
+502	240049908	MCCodeRed	152	1	Sun, 15 Apr 2012 19:33:43 +0000	KimKardashian	"@KimKardashian: Happy Sunday tweeps! Have a blessed day!" says the person with more money than she can spend
+503	377656255	TroyWeaven1	68	1	Sun, 15 Apr 2012 19:33:53 +0000	KimKardashian	RT @KimKardashian: Happy Sunday tweeps! Have a blessed day!
+504	145519286	_Brittany34_	26	1	Sun, 15 Apr 2012 19:34:17 +0000	KimKardashian	RT @KimKardashian: Happy Sunday tweeps! Have a blessed day!
+505	310481488	busjamz30	69	1	Sun, 15 Apr 2012 19:34:41 +0000	KimKardashian	RT @KimKardashian: Happy Sunday tweeps! Have a blessed day!
+506	31355200	_cinthyabm	37	1	Sun, 15 Apr 2012 19:34:53 +0000	KimKardashian	RT @KimKardashian: Happy Sunday tweeps! Have a blessed day!
+507	276243510	Schankiee	46	1	Sun, 15 Apr 2012 19:35:01 +0000	KimKardashian	RT @KimKardashian: Happy Sunday tweeps! Have a blessed day!
+508	163117195	bANaNIEee	349	1	Sun, 15 Apr 2012 19:35:04 +0000	KimKardashian	RT @KimKardashian: Happy Sunday tweeps! Have a blessed day!
+509	70316303	erica_mendibles	98	1	Sun, 15 Apr 2012 19:35:08 +0000	KimKardashian	RT @KimKardashian: Happy Sunday tweeps! Have a blessed day!
+510	109854718	ElenaGeo	110	1	Sun, 15 Apr 2012 19:35:18 +0000	KimKardashian	RT @KimKardashian: Happy Sunday tweeps! Have a blessed day!
+511	347539078	rinacicc	9	1	Sun, 15 Apr 2012 19:35:22 +0000	KimKardashian	RT @KimKardashian: Happy Sunday tweeps! Have a blessed day!
+512	270192317	Jadkins87	109	1	Sun, 15 Apr 2012 19:35:43 +0000	KimKardashian	Happy Sunday tweeps! Have a blessed day!
+513	352923999	Fervillalobosg	191	1	Sun, 15 Apr 2012 19:36:06 +0000	KimKardashian	RT @KimKardashian: Happy Sunday tweeps! Have a blessed day!
+514	528927392	SaraBoo_x	66	1	Sun, 15 Apr 2012 19:36:27 +0000	KimKardashian	RT @KimKardashian: Happy Sunday tweeps! Have a blessed day!
+515	69350174	SusanaMerCa	193	1	Sun, 15 Apr 2012 19:36:46 +0000	KimKardashian	:) kimmie RT @KimKardashian: Happy Sunday tweeps! Have a blessed day!
+516	512640196	Beth_Burnand	192	1	Sun, 15 Apr 2012 19:36:48 +0000	KimKardashian	RT @KimKardashian: Happy Sunday tweeps! Have a blessed day!
+517	308245500	Amyyblossom	176	1	Sun, 15 Apr 2012 19:37:01 +0000	KimKardashian	RT @KimKardashian: Happy Sunday tweeps! Have a blessed day!
+518	229317076	Sarah_Stimson	223	1	Sun, 15 Apr 2012 19:37:40 +0000	KimKardashian	Thanks "@KimKardashian: Happy Sunday tweeps! Have a blessed day!"
+519	190073348	Emilia_Alvarez	466	2	Sun, 15 Apr 2012 19:37:40 +0000	SusanaMerCa	si kimmie supiera hahahahahaha RT @SusanaMerCa: :) kimmie RT @KimKardashian: Happy Sunday tweeps! Have a blessed day!
+520	165227916	LauraSRD	158	2	Sun, 15 Apr 2012 19:37:42 +0000	SusanaMerCa	-_- RT @SusanaMerCa: :) kimmie RT @KimKardashian: Happy Sunday tweeps! Have a blessed day!
+521	389984037	haleymcpherson	53	1	Sun, 15 Apr 2012 19:37:59 +0000	KimKardashian	RT @KimKardashian: Happy Sunday tweeps! Have a blessed day!
+522	373415957	abbyschunks	92	1	Sun, 15 Apr 2012 19:38:03 +0000	KimKardashian	RT @KimKardashian: Happy Sunday tweeps! Have a blessed day!
+523	520554272	NeeMoest	3	1	Sun, 15 Apr 2012 19:38:05 +0000	KimKardashian	RT @KimKardashian: Happy Sunday tweeps! Have a blessed day!
+524	271654693	bri_ggiesmalls	220	1	Sun, 15 Apr 2012 19:38:10 +0000	KimKardashian	"@KimKardashian: Happy Sunday tweeps! Have a blessed day!" Go f yaself
+525	438163606	Bad_Ass13	140	1	Sun, 15 Apr 2012 19:38:36 +0000	KimKardashian	RT @KimKardashian: Happy Sunday tweeps! Have a blessed day!
+526	402080904	cescaaxo	85	1	Sun, 15 Apr 2012 19:38:40 +0000	KimKardashian	RT @KimKardashian: Happy Sunday tweeps! Have a blessed day!
+527	355574191	iEMyourfather	287	2	Sun, 15 Apr 2012 19:38:48 +0000	bri_ggiesmalls	RT @bri_ggiesmalls: "@KimKardashian: Happy Sunday tweeps! Have a blessed day!" Go f yaself
+528	162288544	Klein_Pnoy	74	1	Sun, 15 Apr 2012 19:39:12 +0000	KimKardashian	RT @KimKardashian: Happy Sunday tweeps! Have a blessed day!
+529	29088489	andymora	138	1	Sun, 15 Apr 2012 19:39:15 +0000	KimKardashian	RT @KimKardashian: Happy Sunday tweeps! Have a blessed day!
+530	350727292	mercyzoee	45	1	Sun, 15 Apr 2012 19:39:54 +0000	KimKardashian	RT @KimKardashian: Happy Sunday tweeps! Have a blessed day!
+531	271755923	roxana_amalia	68	1	Sun, 15 Apr 2012 19:39:57 +0000	KimKardashian	RT @KimKardashian: Happy Sunday tweeps! Have a blessed day!
+532	38066493	chelseasmolar	198	1	Sun, 15 Apr 2012 19:40:23 +0000	KimKardashian	RT @KimKardashian: Happy Sunday tweeps! Have a blessed day!
+533	54016141	RoRoAlAhmed	200	1	Sun, 15 Apr 2012 19:40:31 +0000	KimKardashian	"@KimKardashian: Happy Sunday tweeps! Have a blessed day!"
+534	313403250	BethanieEllen	194	1	Sun, 15 Apr 2012 19:40:43 +0000	KimKardashian	RT @KimKardashian: Happy Sunday tweeps! Have a blessed day!
+535	44614925	xoxojanaeee	296	1	Sun, 15 Apr 2012 19:40:48 +0000	KimKardashian	RT @KimKardashian: Happy Sunday tweeps! Have a blessed day!
+536	107433910	kojoSlim	13	1	Sun, 15 Apr 2012 19:41:03 +0000	KimKardashian	RT @KimKardashian: Happy Sunday tweeps! Have a blessed day!
+537	176572948	RaissaVivar	20	1	Sun, 15 Apr 2012 19:41:19 +0000	KimKardashian	RT @KimKardashian: Happy Sunday tweeps! Have a blessed day!
+538	204528614	RoSonja	65	1	Sun, 15 Apr 2012 19:41:21 +0000	KimKardashian	RT @KimKardashian: Happy Sunday tweeps! Have a blessed day!
+539	142483644	sabxobeat	363	1	Sun, 15 Apr 2012 19:41:34 +0000	KimKardashian	RT @KimKardashian: Happy Sunday tweeps! Have a blessed day!
+540	39886343	fernandardzm	192	1	Sun, 15 Apr 2012 19:41:49 +0000	KimKardashian	RT @KimKardashian: Happy Sunday tweeps! Have a blessed day!
+541	101853793	EstelaIsabelA	235	1	Sun, 15 Apr 2012 19:41:53 +0000	KimKardashian	RT @KimKardashian: Happy Sunday tweeps! Have a blessed day!
+542	498664635	fckmefabregas	86	1	Sun, 15 Apr 2012 19:42:02 +0000	KimKardashian	Heh? Sunday? Monday mbakkk RT@KimKardashian: Happy Sunday tweeps! Have a blessed day!
+543	194332187	Lennysind	164	1	Sun, 15 Apr 2012 19:42:14 +0000	KimKardashian	RT @KimKardashian: Happy Sunday tweeps! Have a blessed day!
+544	527894401	KardashKrazy	26	1	Sun, 15 Apr 2012 19:42:28 +0000	KimKardashian	RT @KimKardashian: Happy Sunday tweeps! Have a blessed day!
+545	117325098	JulisaCree	159	1	Sun, 15 Apr 2012 19:42:55 +0000	KimKardashian	RT @KimKardashian: Happy Sunday tweeps! Have a blessed day!
+546	None	thedealster	None	1	Sun, 15 Apr 2012 19:43:06 +0000	KimKardashian	RT @KimKardashian: Happy Sunday tweeps! Have a blessed day!
+547	167251670	alesanch96	198	1	Sun, 15 Apr 2012 19:43:09 +0000	KimKardashian	RT @KimKardashian: Happy Sunday tweeps! Have a blessed day!
+548	241666392	Imaanxxx	135	1	Sun, 15 Apr 2012 19:43:51 +0000	KimKardashian	RT @KimKardashian: Happy Sunday tweeps! Have a blessed day!
+549	141359542	luisramireezv	78	1	Sun, 15 Apr 2012 19:44:10 +0000	KimKardashian	RT @KimKardashian: Happy Sunday tweeps! Have a blessed day!
+550	320132071	timtashun	281	1	Sun, 15 Apr 2012 19:44:27 +0000	KimKardashian	Thanks Kim haha RT “@KimKardashian: Happy Sunday tweeps! Have a blessed day!”
+551	306014034	majowilches	278	1	Sun, 15 Apr 2012 19:44:43 +0000	KimKardashian	RT @KimKardashian: Happy Sunday tweeps! Have a blessed day!
+552	237971275	emilymae31	114	1	Sun, 15 Apr 2012 19:45:01 +0000	KimKardashian	RT @KimKardashian: Happy Sunday tweeps! Have a blessed day!
+553	94617693	dionigggi	59	1	Sun, 15 Apr 2012 19:45:06 +0000	KimKardashian	"@KimKardashian: Happy Sunday tweeps! Have a blessed day!"
+554	43011683	catalinadaes	173	1	Sun, 15 Apr 2012 19:46:11 +0000	KimKardashian	RT @KimKardashian: Happy Sunday tweeps! Have a blessed day!
+555	49383334	macarenalayseca	63	1	Sun, 15 Apr 2012 19:46:42 +0000	KimKardashian	RT @KimKardashian: Happy Sunday tweeps! Have a blessed day!
+556	29272886	Hello_Puppet	268	1	Sun, 15 Apr 2012 19:46:47 +0000	KimKardashian	Callate mongólica “@KimKardashian: Happy Sunday tweeps! Have a blessed day!”
+557	343124167	v_campo	302	1	Sun, 15 Apr 2012 19:46:48 +0000	KimKardashian	RT @KimKardashian: Happy Sunday tweeps! Have a blessed day!
+558	220230977	ArtemusTheModel	224	1	Sun, 15 Apr 2012 19:47:10 +0000	KimKardashian	"@KimKardashian: Happy Sunday tweeps! Have a blessed day!" You have a blessed day aswell..
+559	70806875	marianarvizu	238	1	Sun, 15 Apr 2012 19:47:23 +0000	KimKardashian	RT @KimKardashian: Happy Sunday tweeps! Have a blessed day!
+560	405664923	C0C0_SHARDA89	194	1	Sun, 15 Apr 2012 19:47:25 +0000	KimKardashian	RT @KimKardashian: Happy Sunday tweeps! Have a blessed day!
+561	105292122	JPlaymaker	222	1	Sun, 15 Apr 2012 19:47:53 +0000	KimKardashian	RT @KimKardashian: Happy Sunday tweeps! Have a blessed day!
+562	45784411	jaejaehearts	170	1	Sun, 15 Apr 2012 19:48:49 +0000	KimKardashian	RT @KimKardashian: Happy Sunday tweeps! Have a blessed day!
+563	476515251	MrMbonani21	55	1	Sun, 15 Apr 2012 19:49:12 +0000	KimKardashian	KimKardashian just said on twitter: Happy Sunday tweeps! Have a blessed day!" Guess @USA the sun just came out
+564	153582012	_vivalajulie	420	1	Sun, 15 Apr 2012 19:49:29 +0000	KimKardashian	RT @KimKardashian: Happy Sunday tweeps! Have a blessed day!
+565	519722460	alihasan569	18	1	Sun, 15 Apr 2012 19:49:36 +0000	KimKardashian	RT @KimKardashian: Happy Sunday tweeps! Have a blessed day!
+566	177360260	matt_labombard	150	1	Sun, 15 Apr 2012 19:49:37 +0000	KimKardashian	RT @KimKardashian: Happy Sunday tweeps! Have a blessed day!
+567	175807274	AbbieNewell15	198	1	Sun, 15 Apr 2012 19:50:10 +0000	KimKardashian	RT @KimKardashian: Happy Sunday tweeps! Have a blessed day!
+568	539978046	MarkMaxxMorgan	26	1	Sun, 15 Apr 2012 19:50:13 +0000	KimKardashian	RT @KimKardashian: Happy Sunday tweeps! Have a blessed day!
+569	31736682	Ella_Nicole_x	122	1	Sun, 15 Apr 2012 19:50:30 +0000	KimKardashian	RT @KimKardashian: Happy Sunday tweeps! Have a blessed day!
+570	490832336	Aninha100697	48	1	Sun, 15 Apr 2012 19:51:21 +0000	KimKardashian	RT @KimKardashian: Happy Sunday tweeps! Have a blessed day!
+571	535885840	KimpletelyKFan	13	1	Sun, 15 Apr 2012 19:52:14 +0000	KimKardashian	RT @KimKardashian: Happy Sunday tweeps! Have a blessed day!
+572	30401362	danlanclos	604	1	Sun, 15 Apr 2012 19:52:16 +0000	KimKardashian	RT @KimKardashian: Happy Sunday tweeps! Have a blessed day!
+573	210189754	Lea1093	74	1	Sun, 15 Apr 2012 19:52:38 +0000	KimKardashian	RT @KimKardashian: Happy Sunday tweeps! Have a blessed day!
+574	159990343	nut_MEG__	325	1	Sun, 15 Apr 2012 19:52:57 +0000	KimKardashian	RT @KimKardashian: Happy Sunday tweeps! Have a blessed day!
+575	56849044	MarieleAraujo_	1276	1	Sun, 15 Apr 2012 19:52:58 +0000	KimKardashian	"@KimKardashian: Happy Sunday tweeps! Have a blessed day!"
+576	304218069	idont_voCAREo	407	1	Sun, 15 Apr 2012 19:52:58 +0000	KimKardashian	RT @KimKardashian: Happy Sunday tweeps! Have a blessed day!
+577	25147347	MoondanceJewel	1581	1	Sun, 15 Apr 2012 19:53:11 +0000	KimKardashian	RT @KimKardashian: Happy Sunday tweeps! Have a blessed day!
+578	37572107	cleija06	42	1	Sun, 15 Apr 2012 19:53:29 +0000	KimKardashian	“@KimKardashian: Happy Sunday tweeps! Have a blessed day!”and a blessed day to u as well!!
+579	182573013	QuincyThePrince	43	1	Sun, 15 Apr 2012 19:53:38 +0000	KimKardashian	RT @KimKardashian: Happy Sunday tweeps! Have a blessed day!
+580	16062783	PhuckOff	132	1	Sun, 15 Apr 2012 19:54:23 +0000	KimKardashian	RT @KimKardashian: Happy Sunday tweeps! Have a blessed day!
+581	134616247	mikeCampuzanoo	42	1	Sun, 15 Apr 2012 19:54:40 +0000	KimKardashian	RT @KimKardashian: Happy Sunday tweeps! Have a blessed day!
+582	372386092	bdm_23	71	1	Sun, 15 Apr 2012 19:54:50 +0000	KimKardashian	RT @KimKardashian: Happy Sunday tweeps! Have a blessed day!
+583	157180521	RetweetTweeter	187	1	Sun, 15 Apr 2012 19:55:30 +0000	KimKardashian	RT @KimKardashian: Happy Sunday tweeps! Have a blessed day!
+584	390691550	MissERobinson_x	107	1	Sun, 15 Apr 2012 19:55:44 +0000	KimKardashian	RT @KimKardashian: Happy Sunday tweeps! Have a blessed day!
+585	127600834	DemiIsMyDream	825	1	Sun, 15 Apr 2012 19:56:05 +0000	KimKardashian	RT @KimKardashian: Happy Sunday tweeps! Have a blessed day!
+586	242026190	IsamaraRB	255	1	Sun, 15 Apr 2012 19:56:25 +0000	KimKardashian	RT @KimKardashian: Happy Sunday tweeps! Have a blessed day!
+587	358080644	DashKardashianX	1115	1	Sun, 15 Apr 2012 19:56:31 +0000	KimKardashian	RT @KimKardashian: Happy Sunday tweeps! Have a blessed day!
+588	87851324	MaryAlexSaid	156	1	Sun, 15 Apr 2012 19:56:35 +0000	KimKardashian	RT @KimKardashian: Happy Sunday tweeps! Have a blessed day!
+589	476515251	MrMbonani21	55	1	Sun, 15 Apr 2012 19:56:47 +0000	KimKardashian	RT "@KimKardashian: Happy Sunday tweeps! Have a blessed day!" I guess RSA be sleeping at this time but we had a good blessed one!
+590	174430412	Zahirah_Pink	218	1	Sun, 15 Apr 2012 19:56:52 +0000	KimKardashian	RT @KimKardashian: Happy Sunday tweeps! Have a blessed day!
+591	288848141	brontepettifer	217	1	Sun, 15 Apr 2012 19:57:00 +0000	KimKardashian	RT @KimKardashian: Happy Sunday tweeps! Have a blessed day!
+592	71296699	sergiomalvarez	263	1	Sun, 15 Apr 2012 19:57:37 +0000	KimKardashian	RT @KimKardashian: Happy Sunday tweeps! Have a blessed day!
+593	47872439	PollyPocket_24	122	1	Sun, 15 Apr 2012 19:57:41 +0000	KimKardashian	RT @KimKardashian: Happy Sunday tweeps! Have a blessed day!
+594	231857842	AlyssaMae32	190	1	Sun, 15 Apr 2012 19:57:42 +0000	KimKardashian	RT @KimKardashian: Happy Sunday tweeps! Have a blessed day!
+595	364056057	caseyalex116	214	1	Sun, 15 Apr 2012 19:58:04 +0000	KimKardashian	RT @KimKardashian: Happy Sunday tweeps! Have a blessed day!
+596	435543883	sdhaliwal97	40	1	Sun, 15 Apr 2012 19:58:05 +0000	KimKardashian	RT @KimKardashian: Happy Sunday tweeps! Have a blessed day!
+597	359118654	PeterDaniel30	691	1	Sun, 15 Apr 2012 19:58:16 +0000	KimKardashian	RT @KimKardashian: Happy Sunday tweeps! Have a blessed day!
+598	84498653	YudimerVega	184	1	Sun, 15 Apr 2012 19:59:00 +0000	KimKardashian	RT @KimKardashian: Happy Sunday tweeps! Have a blessed day!
+599	186241084	claudiamoses	292	1	Sun, 15 Apr 2012 19:59:25 +0000	KimKardashian	RT @KimKardashian: Happy Sunday tweeps! Have a blessed day!
+600	227218071	ForeverCatalina	138	1	Sun, 15 Apr 2012 19:59:30 +0000	KimKardashian	RT @KimKardashian: Happy Sunday tweeps! Have a blessed day!
+601	526431852	TOTA_Jokes	193	1	Sun, 15 Apr 2012 20:00:14 +0000	KimKardashian	RT @KimKardashian: Happy Sunday tweeps! Have a blessed day!
+602	457923800	PedroFormighier	4	1	Sun, 15 Apr 2012 20:00:26 +0000	KimKardashian	RT @KimKardashian: Happy Sunday tweeps! Have a blessed day!
+603	491719303	rp_celebrities	8	1	Sun, 15 Apr 2012 20:00:28 +0000	KimKardashian	RT @KimKardashian: Happy Sunday tweeps! Have a blessed day!
+604	311211558	kryptekmind	699	1	Sun, 15 Apr 2012 20:00:54 +0000	KimKardashian	RT @KimKardashian: Happy Sunday tweeps! Have a blessed day!
+605	534847001	AngeLaMarie0805	9	1	Sun, 15 Apr 2012 20:01:13 +0000	KimKardashian	RT @KimKardashian: Happy Sunday tweeps! Have a blessed day!
+606	348685534	CrystalLovez09	36	1	Sun, 15 Apr 2012 20:01:55 +0000	KimKardashian	RT @KimKardashian: Happy Sunday tweeps! Have a blessed day!
+607	53248208	ghikhiworld	409	1	Sun, 15 Apr 2012 20:02:22 +0000	KimKardashian	RT @KimKardashian: Happy Sunday tweeps! Have a blessed day!
+608	549350943	HSluyk_Fashion	7	1	Sun, 15 Apr 2012 20:02:44 +0000	KimKardashian	RT @KimKardashian: Happy Sunday tweeps! Have a blessed day!
+609	405957541	melanieagnic	62	1	Sun, 15 Apr 2012 20:02:46 +0000	KimKardashian	RT @KimKardashian: Happy Sunday tweeps! Have a blessed day!
+610	73577546	lovekyarah	416	1	Sun, 15 Apr 2012 20:02:48 +0000	KimKardashian	RT @KimKardashian: Happy Sunday tweeps! Have a blessed day!
+611	554680461	fc_kardahianspa	1	1	Sun, 15 Apr 2012 20:02:52 +0000	KimKardashian	RT @KimKardashian: Happy Sunday tweeps! Have a blessed day!
+612	193836088	GlynnManigault	78	1	Sun, 15 Apr 2012 20:03:04 +0000	KimKardashian	RT @KimKardashian: Happy Sunday tweeps! Have a blessed day!
+613	546260516	MadisonStimmel	66	1	Sun, 15 Apr 2012 20:03:15 +0000	KimKardashian	RT @KimKardashian: Happy Sunday tweeps! Have a blessed day!
+614	448585182	MINDyD_	24	1	Sun, 15 Apr 2012 20:03:18 +0000	KimKardashian	RT @KimKardashian: Happy Sunday tweeps! Have a blessed day!
+615	111947011	ElizabethAnnVh1	481	1	Sun, 15 Apr 2012 20:03:18 +0000	KimKardashian	RT @KimKardashian: Happy Sunday tweeps! Have a blessed day!
+616	50825795	LeElvia_Swaggie	1202	1	Sun, 15 Apr 2012 20:04:11 +0000	KimKardashian	RT @KimKardashian: Happy Sunday tweeps! Have a blessed day!
+617	541730247	brittslaven	81	1	Sun, 15 Apr 2012 20:04:26 +0000	KimKardashian	RT @KimKardashian: Happy Sunday tweeps! Have a blessed day!
+618	224434713	OfficialFernie	1760	1	Sun, 15 Apr 2012 20:04:42 +0000	KimKardashian	RT @KimKardashian: Happy Sunday tweeps! Have a blessed day!
+619	279816096	annaelindsey	341	1	Sun, 15 Apr 2012 20:06:17 +0000	KimKardashian	RT @KimKardashian: Happy Sunday tweeps! Have a blessed day!
+620	278875651	cherrineowijoyo	91	1	Sun, 15 Apr 2012 20:06:48 +0000	KimKardashian	RT @KimKardashian: Happy Sunday tweeps! Have a blessed day!
+621	438014009	KathyS_22	49	1	Sun, 15 Apr 2012 20:07:31 +0000	KimKardashian	RT @KimKardashian: Happy Sunday tweeps! Have a blessed day!
+622	551913014	SidneyBarbie	0	1	Sun, 15 Apr 2012 20:08:01 +0000	KimKardashian	RT @KimKardashian: Happy Sunday tweeps! Have a blessed day!
+623	223564309	sydneybruce	301	1	Sun, 15 Apr 2012 20:08:06 +0000	KimKardashian	RT @KimKardashian: Happy Sunday tweeps! Have a blessed day!
+624	364038088	pesh1971	8	1	Sun, 15 Apr 2012 20:08:26 +0000	KimKardashian	RT @KimKardashian: Happy Sunday tweeps! Have a blessed day!
+625	118193271	chiarellipat	12	1	Sun, 15 Apr 2012 20:08:34 +0000	KimKardashian	RT @KimKardashian: Happy Sunday tweeps! Have a blessed day!
+626	24284224	MDGraves	41	1	Sun, 15 Apr 2012 20:08:50 +0000	KimKardashian	RT @KimKardashian: Happy Sunday tweeps! Have a blessed day!
+627	163676019	MilkaTrujillo	92	1	Sun, 15 Apr 2012 20:09:10 +0000	KimKardashian	RT @KimKardashian: Happy Sunday tweeps! Have a blessed day!
+628	335331087	AgnesphAgnes	181	1	Sun, 15 Apr 2012 20:10:25 +0000	KimKardashian	RT @KimKardashian: Happy Sunday tweeps! Have a blessed day!
+629	478484678	BibiHeil	51	1	Sun, 15 Apr 2012 20:10:27 +0000	KimKardashian	RT @KimKardashian: Happy Sunday tweeps! Have a blessed day!
+630	166273362	livingformary	2118	1	Sun, 15 Apr 2012 20:10:33 +0000	KimKardashian	RT @KimKardashian: Happy Sunday tweeps! Have a blessed day!
+631	328334805	Jenn_Jenn93	175	1	Sun, 15 Apr 2012 20:10:36 +0000	KimKardashian	RT @KimKardashian: Happy Sunday tweeps! Have a blessed day!
+632	394451217	kgsnell17	24	1	Sun, 15 Apr 2012 20:10:53 +0000	KimKardashian	RT @KimKardashian: Happy Sunday tweeps! Have a blessed day!
+633	248168035	schultz380	128	1	Sun, 15 Apr 2012 20:11:00 +0000	KimKardashian	RT @KimKardashian: Happy Sunday tweeps! Have a blessed day!
+634	370987088	MsKinsler	64	1	Sun, 15 Apr 2012 20:11:19 +0000	KimKardashian	U do the sameRT @KimKardashian: Happy Sunday tweeps! Have a blessed day!
+635	35257091	keylarivas	92	1	Sun, 15 Apr 2012 20:11:22 +0000	KimKardashian	RT @KimKardashian: Happy Sunday tweeps! Have a blessed day!
+636	27349146	pre_celebrity	53	1	Sun, 15 Apr 2012 20:11:23 +0000	KimKardashian	RT @KimKardashian: Happy Sunday tweeps! Have a blessed day!
+637	116104644	_HvolquezG	133	1	Sun, 15 Apr 2012 20:11:35 +0000	KimKardashian	RT @KimKardashian: Happy Sunday tweeps! Have a blessed day!
+638	202854489	Loverisa28	128	1	Sun, 15 Apr 2012 20:11:36 +0000	KimKardashian	RT @KimKardashian: Happy Sunday tweeps! Have a blessed day!
+639	115727837	robertsorian	98	1	Sun, 15 Apr 2012 20:12:06 +0000	KimKardashian	RT @KimKardashian: Happy Sunday tweeps! Have a blessed day!
+640	43573265	AbbyDouglas	40	1	Sun, 15 Apr 2012 20:12:43 +0000	KimKardashian	RT @KimKardashian: Happy Sunday tweeps! Have a blessed day!
+641	58970853	AlanPortilla	7063	1	Sun, 15 Apr 2012 20:13:18 +0000	KimKardashian	RT @KimKardashian: Happy Sunday tweeps! Have a blessed day!
+642	50817889	apaulozzo	94	1	Sun, 15 Apr 2012 20:13:29 +0000	KimKardashian	RT @KimKardashian: Happy Sunday tweeps! Have a blessed day!
+643	530843122	iamsallyc	56	1	Sun, 15 Apr 2012 20:13:48 +0000	KimKardashian	RT @KimKardashian: Happy Sunday tweeps! Have a blessed day!
+644	101821490	honeybunny16_	17	1	Sun, 15 Apr 2012 20:14:04 +0000	KimKardashian	RT @KimKardashian: Happy Sunday tweeps! Have a blessed day!
+645	261434304	paradagema	61	1	Sun, 15 Apr 2012 20:15:27 +0000	KimKardashian	RT @KimKardashian: Happy Sunday tweeps! Have a blessed day!
+646	42038319	n_macapagal	148	1	Sun, 15 Apr 2012 20:15:37 +0000	KimKardashian	RT @KimKardashian: Happy Sunday tweeps! Have a blessed day!
+647	96466269	NoviaPrastikaP	846	1	Sun, 15 Apr 2012 20:16:01 +0000	KimKardashian	RT @KimKardashian: Happy Sunday tweeps! Have a blessed day!
+648	503961831	McaullyMike	80	1	Sun, 15 Apr 2012 20:16:46 +0000	KimKardashian	RT @KimKardashian: Happy Sunday tweeps! Have a blessed day!
+649	264076175	LeilaToraYusuf	112	1	Sun, 15 Apr 2012 20:17:10 +0000	KimKardashian	RT @KimKardashian: Happy Sunday tweeps! Have a blessed day!
+650	340584866	iQueCursi	154	1	Sun, 15 Apr 2012 20:17:16 +0000	KimKardashian	RT @KimKardashian: Happy Sunday tweeps! Have a blessed day!
+651	498647445	422693	19	1	Sun, 15 Apr 2012 20:17:20 +0000	KimKardashian	RT @KimKardashian: Happy Sunday tweeps! Have a blessed day!
+652	444620011	HausOfKardash	1037	1	Sun, 15 Apr 2012 20:17:45 +0000	KimKardashian	RT @KimKardashian: Happy Sunday tweeps! Have a blessed day!
+653	496084374	janemarie_xox	106	1	Sun, 15 Apr 2012 20:17:46 +0000	KimKardashian	RT @KimKardashian: Happy Sunday tweeps! Have a blessed day!
+654	524231074	SIOONNN	3	1	Sun, 15 Apr 2012 20:18:18 +0000	KimKardashian	RT @KimKardashian: Happy Sunday tweeps! Have a blessed day!
+655	511272535	aleimendez	45	1	Sun, 15 Apr 2012 20:20:54 +0000	KimKardashian	RT @KimKardashian: Happy Sunday tweeps! Have a blessed day!
+656	376476445	bOoboO_lov3sU	67	1	Sun, 15 Apr 2012 20:21:07 +0000	KimKardashian	RT @KimKardashian: Happy Sunday tweeps! Have a blessed day!
+657	502369406	bkr2328	18	1	Sun, 15 Apr 2012 20:22:38 +0000	KimKardashian	RT @KimKardashian: Happy Sunday tweeps! Have a blessed day!
+658	421360494	dustin_was_here	20	1	Sun, 15 Apr 2012 20:22:54 +0000	KimKardashian	RT @KimKardashian: Happy Sunday tweeps! Have a blessed day!
+659	35140284	mandystro0393	33	1	Sun, 15 Apr 2012 20:27:04 +0000	KimKardashian	RT @KimKardashian: Happy Sunday tweeps! Have a blessed day!
+660	404547894	AlexMattarese	23	1	Sun, 15 Apr 2012 20:29:08 +0000	KimKardashian	RT @KimKardashian: Happy Sunday tweeps! Have a blessed day!
+661	134679458	DivaIsNyree	221	1	Sun, 15 Apr 2012 20:32:10 +0000	KimKardashian	RT @KimKardashian: Happy Sunday tweeps! Have a blessed day!
+662	398896851	Kassieeebby	126	1	Sun, 15 Apr 2012 20:33:11 +0000	KimKardashian	RT @KimKardashian: Happy Sunday tweeps! Have a blessed day!
+663	248302761	marttsalomon	31	1	Sun, 15 Apr 2012 20:36:01 +0000	KimKardashian	RT @KimKardashian: Happy Sunday tweeps! Have a blessed day!
+664	98918536	yea_itzRIDEOUT	125	1	Sun, 15 Apr 2012 20:36:34 +0000	KimKardashian	RT @KimKardashian: Happy Sunday tweeps! Have a blessed day!
+665	236219492	xKardashianSwag	3693	1	Sun, 15 Apr 2012 20:37:30 +0000	KimKardashian	RT @KimKardashian: Happy Sunday tweeps! Have a blessed day!
+666	204922738	undrmyumbrELLAx	129	1	Sun, 15 Apr 2012 20:39:51 +0000	KimKardashian	RT @KimKardashian: Happy Sunday tweeps! Have a blessed day!
+667	43299449	BangaRangRufio1	216	1	Sun, 15 Apr 2012 20:40:05 +0000	KimKardashian	RT @KimKardashian: Happy Sunday tweeps! Have a blessed day!
+668	319894921	lina541	27	1	Sun, 15 Apr 2012 20:40:20 +0000	KimKardashian	RT @KimKardashian: Happy Sunday tweeps! Have a blessed day!
+669	223264020	Bellbers	175	3	Sun, 15 Apr 2012 20:41:49 +0000	AnimalCrackers6	RT @AnimalCrackers6: “@EricLeGaulois: “@KimKardashian: Happy Sunday tweeps! Have a blessed day!” And try not to burst in to flames as you walk in the church!
+670	162419002	fefegalvao	152	1	Sun, 15 Apr 2012 20:42:19 +0000	KimKardashian	RT @KimKardashian: Happy Sunday tweeps! Have a blessed day!
+671	298541890	SharleenKhamba	91	1	Sun, 15 Apr 2012 20:42:52 +0000	KimKardashian	RT @KimKardashian: Happy Sunday tweeps! Have a blessed day!
+672	540204665	Juju102199	10	1	Sun, 15 Apr 2012 20:43:05 +0000	KimKardashian	RT @KimKardashian: Happy Sunday tweeps! Have a blessed day!
+673	315316956	cookeegirll	65	1	Sun, 15 Apr 2012 20:44:43 +0000	KimKardashian	RT @KimKardashian: Happy Sunday tweeps! Have a blessed day!
+674	347640048	vanes1126	30	1	Sun, 15 Apr 2012 20:45:55 +0000	KimKardashian	RT @KimKardashian: Happy Sunday tweeps! Have a blessed day!
+675	377572994	NouraAlMalik	100	1	Sun, 15 Apr 2012 20:46:31 +0000	KimKardashian	RT @KimKardashian: Happy Sunday tweeps! Have a blessed day!
+676	300297164	lilyjohana_22	360	1	Sun, 15 Apr 2012 20:46:39 +0000	KimKardashian	RT @KimKardashian Happy Sunday tweeps! Have a blessed day!
+677	307003437	LittleSymone	53	1	Sun, 15 Apr 2012 20:48:21 +0000	KimKardashian	RT @KimKardashian: Happy Sunday tweeps! Have a blessed day!
+678	526771261	Josh_H13	24	1	Sun, 15 Apr 2012 20:56:32 +0000	KimKardashian	RT @KimKardashian: Happy Sunday tweeps! Have a blessed day!
+679	136812817	IrmaCity	153	1	Sun, 15 Apr 2012 20:57:22 +0000	KimKardashian	RT @KimKardashian: Happy Sunday tweeps! Have a blessed day!
+680	451815093	megan_thomas11	122	1	Sun, 15 Apr 2012 20:58:19 +0000	KimKardashian	RT @KimKardashian: Happy Sunday tweeps! Have a blessed day!
+681	110781023	BRIT_57	158	1	Sun, 15 Apr 2012 21:02:28 +0000	KimKardashian	RT @KimKardashian: Happy Sunday tweeps! Have a blessed day!
+682	460664286	CandydaKristen	135	1	Sun, 15 Apr 2012 21:02:46 +0000	KimKardashian	RT @KimKardashian: Happy Sunday tweeps! Have a blessed day!
+683	359407761	RachelHomier	166	1	Sun, 15 Apr 2012 21:09:30 +0000	KimKardashian	RT @KimKardashian: Happy Sunday tweeps! Have a blessed day!
+684	534024388	FinestEmJos	3	1	Sun, 15 Apr 2012 21:11:07 +0000	KimKardashian	RT @KimKardashian: Happy Sunday tweeps! Have a blessed day!
+685	50647887	pabloramirez214	24	1	Sun, 15 Apr 2012 21:11:10 +0000	KimKardashian	RT @KimKardashian: Happy Sunday tweeps! Have a blessed day!
+686	309294498	Anj0lee	55	1	Sun, 15 Apr 2012 21:13:16 +0000	KimKardashian	RT @KimKardashian: Happy Sunday tweeps! Have a blessed day!
+687	143406591	MoohDaBest	27	1	Sun, 15 Apr 2012 21:15:10 +0000	KimKardashian	RT @KimKardashian: Happy Sunday tweeps! Have a blessed day!
+688	30645232	samanthajones19	26	1	Sun, 15 Apr 2012 21:15:50 +0000	KimKardashian	RT @KimKardashian: Happy Sunday tweeps! Have a blessed day!
+689	246505759	nizanbar	45	1	Sun, 15 Apr 2012 21:16:53 +0000	KimKardashian	RT @KimKardashian: Happy Sunday tweeps! Have a blessed day!
+690	207852638	doraelg	40	1	Sun, 15 Apr 2012 21:17:56 +0000	KimKardashian	RT @KimKardashian: Happy Sunday tweeps! Have a blessed day!
+691	352773262	nicole_xristine	95	2	Sun, 15 Apr 2012 21:19:39 +0000	Sarah_Stimson	RT“@Sarah_Stimson: Thanks "@KimKardashian: Happy Sunday tweeps! Have a blessed day!"” YOU ARE SO WEIRD!!
+692	370800289	ainsleychapmanx	387	1	Sun, 15 Apr 2012 21:23:15 +0000	KimKardashian	RT @KimKardashian: Happy Sunday tweeps! Have a blessed day!
+693	22298773	x_RuthyBella_x	3306	1	Sun, 15 Apr 2012 21:23:45 +0000	KimKardashian	RT @KimKardashian: Happy Sunday tweeps! Have a blessed day!
+694	553869779	Loouisee88	10	1	Sun, 15 Apr 2012 21:28:26 +0000	KimKardashian	RT @KimKardashian: Happy Sunday tweeps! Have a blessed day!
+695	443962547	jessie_katz	28	1	Sun, 15 Apr 2012 21:31:15 +0000	KimKardashian	RT @KimKardashian: Happy Sunday tweeps! Have a blessed day!
+696	143994966	Amanda_Mabelle	263	1	Sun, 15 Apr 2012 21:35:33 +0000	KimKardashian	RT @KimKardashian: Happy Sunday tweeps! Have a blessed day!
+697	269128229	amykriscc	1	1	Sun, 15 Apr 2012 21:36:29 +0000	KimKardashian	RT @KimKardashian: Happy Sunday tweeps! Have a blessed day!
+698	175475775	JeessiFigueroa	1046	1	Sun, 15 Apr 2012 21:41:22 +0000	KimKardashian	RT @KimKardashian: Happy Sunday tweeps! Have a blessed day!
+699	251628815	NYCcud	47	1	Sun, 15 Apr 2012 21:44:29 +0000	KimKardashian	RT @KimKardashian: Happy Sunday tweeps! Have a blessed day!
+700	50916636	emilyangela25	112	1	Sun, 15 Apr 2012 21:44:48 +0000	KimKardashian	RT @KimKardashian: Happy Sunday tweeps! Have a blessed day!
+701	284252437	_iMarly	28	1	Sun, 15 Apr 2012 21:46:09 +0000	KimKardashian	RT @KimKardashian: Happy Sunday tweeps! Have a blessed day!
+702	230550700	AndressaFBieber	329	1	Sun, 15 Apr 2012 21:50:30 +0000	KimKardashian	RT @KimKardashian: Happy Sunday tweeps! Have a blessed day!
+703	397002244	heyitsks	153	1	Sun, 15 Apr 2012 21:51:11 +0000	KimKardashian	RT @KimKardashian: Happy Sunday tweeps! Have a blessed day!
+704	486085421	Sexyy_N_Redd	119	1	Sun, 15 Apr 2012 21:58:04 +0000	KimKardashian	RT @KimKardashian: Happy Sunday tweeps! Have a blessed day!
+705	459804922	Dun_Dun89	58	1	Sun, 15 Apr 2012 21:58:29 +0000	KimKardashian	RT @KimKardashian: Happy Sunday tweeps! Have a blessed day!
+706	455987566	djryanelis	6	1	Sun, 15 Apr 2012 22:00:13 +0000	KimKardashian	RT @KimKardashian: Happy Sunday tweeps! Have a blessed day!
+707	401799907	kimmie1204	57	1	Sun, 15 Apr 2012 22:02:56 +0000	KimKardashian	RT @KimKardashian: Happy Sunday tweeps! Have a blessed day!
+708	553942661	fangirl661	12	1	Sun, 15 Apr 2012 22:08:06 +0000	KimKardashian	RT @KimKardashian: Happy Sunday tweeps! Have a blessed day!
+709	491095490	germoo20	68	1	Sun, 15 Apr 2012 22:08:06 +0000	KimKardashian	RT @KimKardashian: Happy Sunday tweeps! Have a blessed day!
+710	327767796	lover_05	89	1	Sun, 15 Apr 2012 22:16:21 +0000	KimKardashian	RT @KimKardashian: Happy Sunday tweeps! Have a blessed day!
+711	260913174	LucyMills_x	130	1	Sun, 15 Apr 2012 22:17:57 +0000	KimKardashian	RT @KimKardashian: Happy Sunday tweeps! Have a blessed day!
+712	418380672	HoneyBeeKissed	8	1	Sun, 15 Apr 2012 22:18:54 +0000	KimKardashian	RT @KimKardashian: Happy Sunday tweeps! Have a blessed day!
+713	340855679	bb_joon	27	1	Sun, 15 Apr 2012 22:18:55 +0000	KimKardashian	RT @KimKardashian: Happy Sunday tweeps! Have a blessed day!
+714	93369136	maizkeizer	343	1	Sun, 15 Apr 2012 22:19:12 +0000	KimKardashian	RT @KimKardashian: Happy Sunday tweeps! Have a blessed day!
+715	25651595	KINGPILAS	99	1	Sun, 15 Apr 2012 22:22:37 +0000	KimKardashian	RT @KimKardashian: Happy Sunday tweeps! Have a blessed day!
+716	303690346	yarivnati	1909	1	Sun, 15 Apr 2012 22:22:50 +0000	KimKardashian	RT @KimKardashian: Happy Sunday tweeps! Have a blessed day!
+717	399753403	ayooitschris	9	1	Sun, 15 Apr 2012 22:24:57 +0000	KimKardashian	RT @KimKardashian: Happy Sunday tweeps! Have a blessed day!
+718	None	N33thaN	None	1	Sun, 15 Apr 2012 22:25:50 +0000	KimKardashian	Happy Sunday tweeps! Have a blessed day
+719	406640997	Whoaa_ItsMoe	21	1	Sun, 15 Apr 2012 22:32:08 +0000	KimKardashian	RT @KimKardashian: Happy Sunday tweeps! Have a blessed day!
+720	63592942	SamanthaSed	306	1	Sun, 15 Apr 2012 22:35:23 +0000	KimKardashian	RT @KimKardashian: Happy Sunday tweeps! Have a blessed day!
+721	379845763	24Mirr	220	1	Sun, 15 Apr 2012 22:37:17 +0000	KimKardashian	RT @KimKardashian: Happy Sunday tweeps! Have a blessed day!
+722	513687868	heavenlyangel72	19	1	Sun, 15 Apr 2012 22:53:18 +0000	KimKardashian	RT @KimKardashian: Happy Sunday tweeps! Have a blessed day!
+723	47558073	marisamarcell	124	1	Sun, 15 Apr 2012 22:56:16 +0000	KimKardashian	RT @KimKardashian: Happy Sunday tweeps! Have a blessed day!
+724	167548626	chasepolizzi	37	1	Sun, 15 Apr 2012 23:09:22 +0000	KimKardashian	RT @KimKardashian: Happy Sunday tweeps! Have a blessed day!
+725	261313797	Stefaniematza	940	1	Sun, 15 Apr 2012 23:10:56 +0000	KimKardashian	RT @KimKardashian: Happy Sunday tweeps! Have a blessed day!
+726	92427476	Alipjoker	162	1	Sun, 15 Apr 2012 23:11:16 +0000	KimKardashian	RT @KimKardashian: Happy Sunday tweeps! Have a blessed day!
+727	508986356	JennersIndo	8	1	Sun, 15 Apr 2012 23:12:30 +0000	KimKardashian	“@KimKardashian: Happy Sunday tweeps! Have a blessed day!”
+728	363737113	HeyyJordann	875	1	Sun, 15 Apr 2012 23:12:39 +0000	KimKardashian	RT @KimKardashian: Happy Sunday tweeps! Have a blessed day!
+729	405620361	Jblovesleah	346	1	Sun, 15 Apr 2012 23:12:59 +0000	KimKardashian	RT @KimKardashian: Happy Sunday tweeps! Have a blessed day!
+730	159555597	DiianaMendiiola	226	1	Sun, 15 Apr 2012 23:14:17 +0000	KimKardashian	RT @KimKardashian: Happy Sunday tweeps! Have a blessed day!
+731	65924980	MsBabyPhatt28	25	1	Sun, 15 Apr 2012 23:27:01 +0000	KimKardashian	RT @KimKardashian: Happy Sunday tweeps! Have a blessed day!
+732	279812684	KkLamLam	1657	1	Sun, 15 Apr 2012 23:37:19 +0000	KimKardashian	RT @KimKardashian: Happy Sunday tweeps! Have a blessed day!
+733	197933641	Sofia_daSilva	75	1	Sun, 15 Apr 2012 23:51:20 +0000	KimKardashian	RT @KimKardashian: Happy Sunday tweeps! Have a blessed day!
+734	216930502	tw_top_fashion	273037	1	Sun, 15 Apr 2012 23:51:46 +0000	KimKardashian	RT @KimKardashian: Happy Sunday tweeps! Have a blessed day!
+735	38556220	EllaJae	7	1	Sun, 15 Apr 2012 23:52:04 +0000	KimKardashian	RT @KimKardashian: Happy Sunday tweeps! Have a blessed day!
+736	28937511	kitteneyez2011	802	1	Mon, 16 Apr 2012 00:05:59 +0000	KimKardashian	RT @KimKardashian: Happy Sunday tweeps! Have a blessed day!
+737	343193016	huerta_ana12	118	1	Mon, 16 Apr 2012 00:23:14 +0000	KimKardashian	RT @KimKardashian: Happy Sunday tweeps! Have a blessed day!
+738	415354959	LovingKUWTK	1404	1	Mon, 16 Apr 2012 00:28:50 +0000	KimKardashian	RT @KimKardashian: Happy Sunday tweeps! Have a blessed day!
+739	457055305	osnapitznikkki	180	1	Mon, 16 Apr 2012 00:30:03 +0000	KimKardashian	RT @KimKardashian: Happy Sunday tweeps! Have a blessed day!
+740	80597606	flaviamorais197	2	1	Mon, 16 Apr 2012 00:31:43 +0000	KimKardashian	RT @KimKardashian: Happy Sunday tweeps! Have a blessed day!
+741	329623944	sendhoazman	19	1	Mon, 16 Apr 2012 00:32:28 +0000	KimKardashian	RT @KimKardashian: Happy Sunday tweeps! Have a blessed day!
+742	116086459	AleeFantome	255	1	Mon, 16 Apr 2012 01:10:52 +0000	KimKardashian	RT @KimKardashian: Happy Sunday tweeps! Have a blessed day!
+743	554837943	megek2011	17	1	Mon, 16 Apr 2012 01:17:35 +0000	KimKardashian	RT @KimKardashian: Happy Sunday tweeps! Have a blessed day!
+744	89924827	zoehann	85	1	Mon, 16 Apr 2012 01:21:09 +0000	KimKardashian	Sunday is holiday teteh :) RT @KimKardashian: Happy Sunday tweeps! Have a blessed day!
+745	428430807	SuperKimKardash	54	1	Mon, 16 Apr 2012 01:37:01 +0000	KimKardashian	KimKardashian: Happy Sunday tweeps! Have a blessed day!: KimKardashian: Happy Sunday tweeps! Have a blessed day! http://t.co/xyNW52Ea
+746	304134012	rainbowofwhite	776	1	Mon, 16 Apr 2012 01:53:28 +0000	KimKardashian	RT @KimKardashian: Happy Sunday tweeps! Have a blessed day!
+747	118508772	shelbby09	631	1	Mon, 16 Apr 2012 01:58:08 +0000	KimKardashian	RT @KimKardashian: Happy Sunday tweeps! Have a blessed day!
+748	339752206	LovableKardash	3001	1	Mon, 16 Apr 2012 02:16:13 +0000	KimKardashian	RT @KimKardashian: Happy Sunday tweeps! Have a blessed day!
+749	268935749	samgonzalez87	320	1	Mon, 16 Apr 2012 02:20:56 +0000	KimKardashian	RT @KimKardashian: Happy Sunday tweeps! Have a blessed day!
+750	251187124	aweisssss	530	1	Mon, 16 Apr 2012 03:30:20 +0000	KimKardashian	RT @KimKardashian: Happy Sunday tweeps! Have a blessed day!
+751	28429773	GODlN	396	1	Mon, 16 Apr 2012 04:14:53 +0000	KimKardashian	RT @KimKardashian: Happy Sunday tweeps! Have a blessed day!
+752	306640883	KlassicKardash	627	1	Mon, 16 Apr 2012 04:23:38 +0000	KimKardashian	RT @KimKardashian: Happy Sunday tweeps! Have a blessed day!
+753	77807780	Y_Shaaban	337	1	Mon, 16 Apr 2012 04:41:26 +0000	KimKardashian	RT @KimKardashian: Happy Sunday tweeps! Have a blessed day!
+754	None	KardashMyQueen	None	1	Mon, 16 Apr 2012 05:52:54 +0000	KimKardashian	RT @KimKardashian: Happy Sunday tweeps! Have a blessed day!
+755	27510405	Khlover_girl97	203	1	Mon, 16 Apr 2012 06:05:50 +0000	KimKardashian	RT @KimKardashian: Happy Sunday tweeps! Have a blessed day!
+756	365298342	lmzhen	25	1	Mon, 16 Apr 2012 06:22:46 +0000	KimKardashian	RT @KimKardashian: Happy Sunday tweeps! Have a blessed day!
+757	328663593	OliviaBayanak	116	1	Mon, 16 Apr 2012 06:32:15 +0000	KimKardashian	RT @KimKardashian: Happy Sunday tweeps! Have a blessed day!
+758	448025385	cdleasure	26	1	Mon, 16 Apr 2012 12:19:19 +0000	KimKardashian	RT @KimKardashian: Happy Sunday tweeps! Have a blessed day!
+759	91416538	alwaykardashian	455	1	Mon, 16 Apr 2012 16:39:35 +0000	KimKardashian	RT @KimKardashian: Happy Sunday tweeps! Have a blessed day!
+760	94711941	Malikatic	2181	1	Mon, 16 Apr 2012 17:05:03 +0000	KimKardashian	RT @KimKardashian: Happy Sunday tweeps! Have a blessed day!
+761	399585135	KendallMyDoll	907	1	Mon, 16 Apr 2012 18:33:18 +0000	KimKardashian	RT @KimKardashian: Happy Sunday tweeps! Have a blessed day!
+762	324688834	JonasDashLovato	1014	1	Tue, 17 Apr 2012 02:26:53 +0000	KimKardashian	RT @KimKardashian: Happy Sunday tweeps! Have a blessed day!
+763	210643118	KrissJenner	29594	1	Tue, 17 Apr 2012 04:38:37 +0000	KimKardashian	RT @KimKardashian: Happy Sunday tweeps! Have a blessed day!
+764	129878653	juliramirezkk	123	1	Tue, 17 Apr 2012 04:39:10 +0000	KimKardashian	RT @KimKardashian: Happy Sunday tweeps! Have a blessed day!
+765	507040281	VedzTomic	87	1	Tue, 17 Apr 2012 06:55:02 +0000	KimKardashian	RT @KimKardashian: Happy Sunday tweeps! Have a blessed day!
+766	402261446	mylifeisdems	1391	1	Tue, 17 Apr 2012 14:11:01 +0000	KimKardashian	RT @KimKardashian: Happy Sunday tweeps! Have a blessed day!
+767	392138149	SuaveDoll	1308	1	Tue, 17 Apr 2012 14:46:59 +0000	KimKardashian	RT @KimKardashian: Happy Sunday tweeps! Have a blessed day!
+768	395647649	Kimkhumpries	118	1	Tue, 17 Apr 2012 15:59:14 +0000	KimKardashian	RT @KimKardashian: Happy Sunday tweeps! Have a blessed day!
