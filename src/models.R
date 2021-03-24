@@ -2,7 +2,7 @@ require(logitnorm)
 require(lognorm)
 require(statmod)
 require(mvtnorm)
-
+require(invgamma)
 #------------------------------------
 # INPUT DATA from observations
 model_input = readRDS('../data/model_input.rds')
@@ -16,14 +16,15 @@ f = model_input$f # the number of followers of user
 d = model_input$d
 S = model_input$S
 M = model_input$M
-
+S = log(S)
+#f = log(f+1)
 #------------------------------------------
 # Retweet graph constant parameters. ******
 #------------------------------------------
 # Each of the betas has a normal distribution with the following
 #     means and standard deviations
 mu.beta =0
-sigma.beta = 100
+sigma.beta = 5
 # The variance of the retweet probability(sigmaS.b) has IG distribution with
 # the following parameters
 a.sigma.b = .5
@@ -47,26 +48,28 @@ theta.b = 500
 # Retweet graph prior distributions ***********
 #------------------------------------------------
 prior_beta = function(){
-  c(rmvnorm(1, rep(mu.beta,3), diag(rep(sigma.beta,3))))
+  c(c(rmvnorm(1, rep(mu.beta,3), diag(rep(sigma.beta,3)))))
 }
-prior_sigmaS.b = function() rinvgauss(1,a.sigma.b,b.sigma.b)
+prior_sigmaS.b = function() min(rinvgamma(1,a.sigma.b,scale=b.sigma.b),30)
 mu.j.x = function(beta, f.j.x, d.j.x) {
   return(beta[1] + beta[2]*log(f.j.x+1)+beta[3]*log(d.j.x+1))
 }
-prior_b.j.x = function(mu.j.x, sigmaS.b) rlogitnorm(1, mu.j.x,sqrt(sigmaS.b)) 
+prior_b.j.x = function(mujx, sigmaS.b) {
+  min(rlogitnorm(1, mujx,sqrt(sigmaS.b)),.999)
+}
 prior_M.j.x = function(f.j.x, b.j.x) rbinom(1,f.j.x,b.j.x)
 #------------------------------------------
 # Reaction time prior distribution. ******
 #------------------------------------------
 prior_alpha = function() rnorm(1,mu.alpha, sigma.alpha)
-prior_sigmaS.delta = function() rinvgauss(1,a.delta,b.delta)
+prior_sigmaS.delta = function() rinvgamma(1,a.delta,scale=b.delta)
 prior_a.t = function() rlnorm(1, mu.a,sigma.a)
-prior_b.t = function() rgamma(1, k.b, theta.b)
+prior_b.t = function() rgamma(1, k.b, scale=theta.b)
 prior_alpha.x = function(alpha, sigmaS.delta) rnorm(1, alpha, sqrt(sigmaS.delta))
-prior_tauS.x = function(a.t, b.t) rinvgauss(1, a.t, b.t)
+prior_tauS.x = function(a.t, b.t) rinvgamma(1, a.t, scale=b.t)
 
 prior_S.j.x = function(alpha.x, tauS.x){
-  rlnorm(1, alpha.x, sqrt(tauS.x))
+  rnorm(1, alpha.x, sqrt(tauS.x))
 }
 #------------------------------------------------
 # Retweet graph conditional posteriors ***********
@@ -84,13 +87,13 @@ post_beta = function(sigmaS.b, b){
   Y0 = sum(log(b+1))
   YF = sum(log(b+1)*log(f+1))
   Yd = sum((log(b+1)^2)*log(d+1)) + sigmaS.b * sigma.beta^(-2)
-  C = matrix(c(
+  CM = matrix(c(
     N1, W, D,
     W, W2, E,
     D, E, D2),nrow=3,byrow = TRUE)
-  C = sigmaS.b * solve(C)
-  mu = C %*% t(c(Y0, YF, Yd))
-  return(rmvnorm(1, mu, C))
+  CM = sigmaS.b * solve(CM)
+  mu = CM %*% c(Y0, YF, Yd)
+  return(c(rmvnorm(1, mu, CM)))
 }
 post_sigmaS.b = function(b, beta){
   ad = a.sigma.b + N/2
@@ -99,19 +102,20 @@ post_sigmaS.b = function(b, beta){
     mu = c(mu, mu.j.x(beta, f[i],d[i]))
   }
   bd = b.sigma.b + .5 * sum( (logit(b)-mu)^2)
-  return(rinvgauss(1, ad, bd))
+  return(rinvgamma(1, ad,scale= bd))
 }
 # Note: b.j.x is sample by MH
 # the posterior of it returns a density instead of a sample.
 # the sample is taken from the proposal
-post_b.j.x = function(x, f.j.x, b.j.x, d.j.x, beta, sigmaS.b){
+post_b.j.x = function(x, Mx, f.j.x, d.j.x, beta, sigmaS.b){
   mu = mu.j.x(beta, f.j.x, d.j.x)
-  den =  dbinom(x,f.j.x,b.j.x) *  dlogitnorm(x, mu,sqrt(sigmaS.b))
+  den = (x^Mx) * ((1-x)^(f.j.x-Mx)) * exp(-(logit(x)-mu)^2/(2*sigmaS.b))
+  #den =  dbinom(Mx,f.j.x,x) *  dlogitnorm(x, mu,sqrt(sigmaS.b))
   return(den)
 }
 propos_b.j.x = function(beta, f.j.x, d.j.x, sigmaS.b){
   mu = mu.j.x(beta, f.j.x, d.j.x)
-  return(rlogitnorm(1, mu, sqrt(sigmaS.b)))
+  return(min( rlogitnorm(1, mu, sqrt(sigmaS.b)), .999))
 }
 #---------
 
@@ -119,20 +123,22 @@ propos_b.j.x = function(beta, f.j.x, d.j.x, sigmaS.b){
 # Reaction time conditional posteriors. ******
 #------------------------------------------
 post_alpha = function(sigmaS.delta, alpha.X){
-  mu = (X + sigmaS.delta/sigma.alpha)^(-2) *sum(alpha.X)
-  sig = (X + sigmaS.delta/sigma.alpha)^(-2) * sigmaS.delta
+  mu = (X + sigmaS.delta* (sigma.alpha)^(-2))^(-1) *sum(alpha.X)
+  sig =(X + sigmaS.delta* (sigma.alpha)^(-2))^(-1) * sigmaS.delta
   return(rnorm(1, mu, sqrt(sig)))
 }
 post_sigmaS.delta = function(alpha, alpha.X){
   ad = a.delta + X/2
   bd = b.delta + .5 * sum((alpha.X-alpha)^2)
-  return(rinvgauss(1, ad, bd))
+  return(rinvgamma(1, ad, scale=bd))
 }
 # Note a.t is sampled using MH
 # The posterior returns a density instead of a sample.
 # the sample is taken from the proposal
 post_a.t = function(x, a.t, b.t, tauS.X){
-  den = dlnorm(x, mu.a,sigma.a) * prod(dinvgauss(sqrt(tauS.X), a.t, b.t))
+  den = exp(-(log(x)-mu.a)^2/(2*sigma.a^2)) * 
+    prod( ((b.t^x)/gamma(x)) * (sqrt(tauS.X)^(-x)) )
+  #den = dlnorm(x, mu.a,sigma.a) * prod(dinvgauss(sqrt(tauS.X), a.t, b.t))
   return(den)
 }
 propos_a.t = function(prev){
@@ -140,18 +146,18 @@ propos_a.t = function(prev){
 }
 post_b.t = function(a.t, tauS.X){
   kd = k.b + X * a.t
-  thetad = (theta.b^(-1) + sum(tau.X^(-2)) )^(-1)
-  return(rgamma(1, kd, thetad))
+  thetad = (theta.b^(-1) + sum(tauS.X^(-2)) )^(-1)
+  return(rgamma(1, kd, scale=thetad))
 }
 post_alpha.x = function(M.x, tauS.x, sigmaS.delta, S.x){
-  mud = (M.x + tauS.x / sigmaS.delta)^(-1) * sum(log(S.x))
+  mud = (M.x + tauS.x / sigmaS.delta)^(-1) * sum(S.x)
   sigd = (M.x + tauS.x / sigmaS.delta)^(-1) * tauS.x
   return(rnorm(1, mud, sqrt(sigd)))
 }
 post_tauS.x = function(a.t, b.t, M.x, S.x, alpha.x){
   ad = a.t + M.x/2
-  bd = b.t + .5 * sum((log(S.x)-alpha.x)^2)
-  return(rinvgauss(1, ad, bd))
+  bd = b.t + .5 * sum((S.x-alpha.x)^2)
+  return(rinvgamma(1, ad,scale= bd))
 }
 #----------------------------------------------------------
 #----------------------------------------------------------

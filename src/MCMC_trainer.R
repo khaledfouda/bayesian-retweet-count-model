@@ -60,15 +60,15 @@ for(t in 1:n){
   # Here for each time step, we sample each parameter once,
   # Note that a.t and b.j.x are sampled using MH
   betas = post_beta(sigmaS.b, b.J.X)
-  sigmaS.b = post_sigmaS.b(b.J.X, beta)
+  sigmaS.b = post_sigmaS.b(b.J.X, betas)
   for(i in 1:N){
-  	prob = 2
+  	prob = 0
   	while(runif(1) > prob){
   	  # newp ~ Q(p|p')
   		newp = propos_b.j.x(betas, f[i], d[i], sigmaS.b)
   		# probability of acceptance = p(p)/p(p')
-  		prob = post_b.j.x(newp, f[i], b.J.X[i], d[i], betas, sigmaS.b) /
-  		post_b.j.x(b.J.X[i], f[i], b.J.X[i], d[i], betas, sigmaS.b)
+  		prob = post_b.j.x(newp,M[i], f[i], d[i], betas, sigmaS.b) /
+  		post_b.j.x(b.J.X[i],M[i], f[i], d[i], betas, sigmaS.b)
   	}
   	b.J.X[i] = newp
   }
