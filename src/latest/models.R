@@ -84,7 +84,7 @@ prior_b = function(beta, sigmaS.b) {
 trans_b = function(beta, sigmaS.b){
   #print("HUH")
   mu = c(beta %*% t(W))
-  bJ = sapply(mu, function(d){ r=0;while(r<eps) r=rlogitnorm(1,d,sigmaS.b);return(r)} )
+  bJ = sapply(mu, function(d){ r=0;while(r<eps|r>=1) r=rlogitnorm(1,d,sigmaS.b);return(r)} )
   return(bJ)
 }
 post_b = function(beta, sigmaS.b,b){
