@@ -13,54 +13,61 @@ source('./models.R')
 # alpha.X = vector(length = X)
 # tauS.X = vector(length = X)
 #-------------
-n = 500 # number of samples to be taken from each parameter
+n = 1000 # number of samples to be taken from each parameter
 #---------
-sam_betas = array(NA, dim=c(n,3))
-sam_sigmaS.b = vector(length=n)
-sam_b = array(NA, dim=c(n,sum(J)))
+sam_beta = array(NA, dim=c(n/2,3))
+sam_sigmaS.b = vector(length=n/2)
+sam_b = array(NA, dim=c(n/2,sum(J)))
 #----------------------
-sam_alpha= vector(length = n)
-sam_sigmaS.delta = vector(length = n)
-sam_a.t = vector(length = n)
-sam_b.t = vector(length = n)
-sam_alpha = array(NA, dim=c(n,X))
-sam_tauS = array(NA, dim=c(n,X))
+sam_alpha= vector(length = n/2)
+sam_sigmaS.delta = vector(length = n/2)
+sam_a.t = vector(length = n/2)
+sam_b.t = vector(length = n/2)
+sam_alpha.X = array(NA, dim=c(n/2,X))
+sam_tauS.X = array(NA, dim=c(n/2,X))
 #-------------------------------------------------
 #------------------------------------------------
 # Initialization ::
 # Intialize each according to its prior distribution. 
-C = 5
+C = 10
+summ_beta = array(NA, c(3,C,3))
+summ_sigmaS.b = array(NA,c(C,3))
+summ_alpha= array(NA,c(C,3))
+summ_sigmaS.delta = array(NA,c(C,3))
 summ_a.t = array(NA,c(C,3))
 summ_b.t = array(NA,c(C,3))
-RNGkind(sample.kind = "Rounding")
+summ_alpha.X = array(NA,c(X,C,3))
+summ_tauS.X = array(NA,c(X, C,3))
+
+#RNGkind(sample.kind = "Rounding")
 
 #-----------------------------------
 for(c in 1:C){
-  set.seed(12)
+  #set.seed(12)
   #-----1
   #beta = prior_beta()
-  beta = c(1,1,1)
-  cat(beta,'\n')
+  beta = runif(3, -5,5)
+  #cat(beta,'\n')
   #sigmaS.b = prior_sigmaS.b()
-  sigmaS.b = .1
-  cat(sigmaS.b,'\n')
+  sigmaS.b = runif(1,.01,2)
+  #cat(sigmaS.b,'\n')
   #b = prior_b(beta, sigmaS.b)
-  b = rep(.5,N)
-  cat(max(b),min(b),'\n')
+  b = runif(N,.4,.6)
+  #cat(max(b),min(b),'\n')
   
   #------2
-  # alpha = prior_alpha()
-  # sigmaS.delta = prior_sigmaS.delta()
-  # a.t = prior_a.t()
-  # b.t = prior_b.t()
-  # alpha.X = prior_alpha.x(alpha, sigmaS.delta)
-  # tauS.X = prior_tauS.x(a.t, b.t)
+  alpha = prior_alpha()
+  sigmaS.delta = prior_sigmaS.delta()
+  a.t = prior_a.t()
+  b.t = prior_b.t()
+  alpha.X = prior_alpha.x(alpha, sigmaS.delta)
+  tauS.X = prior_tauS.x(a.t, b.t)
   #------1
   # add each of the sampled values to the parameter's list.
-  sam_betas[1,] = beta
-  sam_sigmaS.b[1] = sigmaS.b
-  sam_b[1,] = b
-  #---------2
+  # sam_betas[1,] = beta
+  # sam_sigmaS.b[1] = sigmaS.b
+  # sam_b[1,] = b
+  # #---------2
   # sam_alpha[1] = alpha
   # sam_sigmaS.delta[1] = sigmaS.delta
   # sam_a.t[1] = a.t
@@ -83,7 +90,7 @@ for(c in 1:C){
     prob = post_b(beta, sigmaS.b, newp)/
       post_b(beta, sigmaS.b, b)
     Accepted = runif(N) < prob
-    b[Accepted] = newp[Accepted]}
+    b[Accepted] = newp[Accepted]
     # 
     # for(i in 1:N){
     # 	prob = 0
@@ -100,37 +107,50 @@ for(c in 1:C){
     # 	print(counter)
     # 	if(counter!=20) {b[i] = newp}
     # }
-  }
+  
     #----------------------2
-    # alpha = post_alpha(sigmaS.delta, alpha.X)
-    # sigmaS.delta= post_sigmaS.delta(alpha, alpha.X)
-    # prob = 0
-    # while(runif(1) > prob){
-    #   newa = trans_a.t(a.t)
-    #   prob = post_a.t(newa, b.t, tauS.X) / post_a.t(a.t,b.t,tauS.X)
-    # }
-    # a.t = newa 
-    # b.t = post_b.t(a.t,tauS.X)
-    # alpha.X = post_alpha.x(tauS.X, sigmaS.delta)
-    # 
-    # tauS.X = post_tauS.x(a.t, b.t, alpha.X)
-    #----------------1
-    #we append the new samples to the arrays.
-    #sam_betas[t,] = beta
-    #sam_sigmaS.b[t] = sigmaS.b
-    #sam_b[t,] = b
-    #-------------------------2
-    # sam_alpha[t] = alpha
-    # sam_sigmaS.delta[t] = sigmaS.delta
-    # sam_a.t[t] = a.t
-    # sam_b.t[t] = b.t
-    # sam_alpha[t,] = alpha.X
-    # sam_tauS[t,] = tauS.X
-  }
-  summ_a.t[c,] = c(mean(sam_a.t[(n/2):n]), var(sam_a.t[(n/2):n]),
-                   sum(sam_a.t[(n/2):n]))
-  summ_b.t[c,] = c(mean(sam_b.t[(n/2):n]), var(sam_b.t[(n/2):n]),
-                   sum(sam_b.t[(n/2):n]))
+    alpha = post_alpha(sigmaS.delta, alpha.X)
+    sigmaS.delta= post_sigmaS.delta(alpha, alpha.X)
+    prob = 0
+    while(runif(1) > prob){
+      newa = trans_a.t(a.t)
+      prob = post_a.t(newa, b.t, tauS.X) / post_a.t(a.t,b.t,tauS.X)
+    }
+    a.t = newa
+    b.t = post_b.t(a.t,tauS.X)
+    alpha.X = post_alpha.x(tauS.X, sigmaS.delta)
+
+    tauS.X = post_tauS.x(a.t, b.t, alpha.X)
+    if(t>n/2){
+      j = t-n/2
+      #----------------1
+      #we append the new samples to the arrays.
+      sam_beta[j,] = beta
+      sam_sigmaS.b[j] = sigmaS.b
+      sam_b[j,] = b
+      #-------------------------2
+      sam_alpha[j] = alpha
+      sam_sigmaS.delta[j] = sigmaS.delta
+      sam_a.t[j] = a.t
+      sam_b.t[j] = b.t
+      sam_alpha.X[j,] = alpha.X
+      sam_tauS.X[j,] = tauS.X
+      }
+}
+  summ_beta[,c,] = c(apply(sam_beta,2,mean), apply(sam_beta,2,var),
+                     apply(sam_beta,2,sum))
+  summ_sigmaS.b[c,] = c(mean(sam_sigmaS.b),var(sam_sigmaS.b),sum(sam_sigmaS.b))
+  summ_alpha[c,] = c(mean(sam_alpha),var(sam_alpha),sum(sam_alpha))
+  summ_sigmaS.delta[c,] = c(mean(sam_sigmaS.delta),var(sam_sigmaS.delta),
+                            sum(sam_sigmaS.delta))
+  summ_a.t[c,] = c(mean(sam_a.t),var(sam_a.t),sum(sam_a.t))
+  summ_b.t[c,] = c(mean(sam_b.t),var(sam_b.t),sum(sam_b.t))
+  summ_alpha.X[,c,] = c(apply(sam_alpha.X,2,mean), apply(sam_alpha.X,2,var),
+                        apply(sam_alpha.X,2,sum))
+  summ_tauS.X[,c,] = c(apply(sam_tauS.X,2,mean), apply(sam_tauS.X,2,var),
+                       apply(sam_tauS.X,2,sum))
+  cat("Chain ",c, " is complete.", '\n')
+  
 }
 #sam_a.t
 
@@ -159,4 +179,3 @@ for(c in 1:C){
 # 
 # R_a.t = sqrt(varEs_a.t/W_a.t)
 # 
-
