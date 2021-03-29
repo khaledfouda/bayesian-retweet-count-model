@@ -1,4 +1,4 @@
 
 *.rds
 *.RData
-old_backup_only/*
+old_backup_only/**
