@@ -37,5 +37,11 @@ output = matrix( c(
 output = as.data.frame(output)
 colnames(output) = c("Parameter", 'mean', 'Estim var', "low.bound",
                      'upp.bound', 'R-hat')
+
+output %>% mutate_if(is.numeric, round, digits=2)
+output %>% select(-Parameter) %>% mutate_all(as.numeric) %>%
+  mutate_if(is.numeric, round, digits=6) -> output[,-1]
+
 View(output)
 
+kable(output, "latex")

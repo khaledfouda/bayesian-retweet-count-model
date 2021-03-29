@@ -1,0 +1,4 @@
+
+*.RData
+src/.RData
+src/.Rhistory

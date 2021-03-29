@@ -1,5 +1,5 @@
 source('./models.R')
-
+require(dplyr)
 # params
 #------------
 # betas = c(NA,NA,NA)
@@ -13,7 +13,7 @@ source('./models.R')
 # alpha.X = vector(length = X)
 # tauS.X = vector(length = X)
 #-------------
-n = 1000 # number of samples to be taken from each parameter
+n = 8000 # number of samples to be taken from each parameter
 #---------
 sam_beta = array(NA, dim=c(n/2,3))
 sam_sigmaS.b = vector(length=n/2)
@@ -29,7 +29,7 @@ sam_tauS.X = array(NA, dim=c(n/2,X))
 #------------------------------------------------
 # Initialization ::
 # Intialize each according to its prior distribution. 
-C = 10
+C = 5
 summ_beta = array(NA, c(3,C,3))
 summ_sigmaS.b = array(NA,c(C,3))
 summ_alpha= array(NA,c(C,3))
@@ -154,28 +154,4 @@ for(c in 1:C){
 }
 #sam_a.t
 
-#length(sam_a.t)
-#summ_a.t = array(NA,c(5,3))
-#summ_a.t[1,] = c(mean(sam_a.t[250:500]), var(sam_a.t[250:500]),
-#                 sum(sam_a.t[250:500]))
-
-#summ_b.t = array(NA,c(5,3))
-#summ_b.t[1,] = c(mean(sam_b.t[250:500]), var(sam_b.t[250:500]),
-#                 sum(sam_b.t[250:500]))
-
-
-#require(coda)
-
-
-#summ_a.t
-
-#ovrall_a.t = sum(summ_a.t[,3])/(5*250)
-# ovrall_b.t = sum(summ_b.t[,3])/(5*250)
-# 
-# B_a.t = (250/4) * sum( (summ_a.t[,1]-ovrall_a.t)^2 ) 
-# W_a.t = (1/5) * sum(summ_a.t[,2])
-# 
-# varEs_a.t = (249/250) * W_a.t + (1/250) * B_a.t
-# 
-# R_a.t = sqrt(varEs_a.t/W_a.t)
-# 
+save.image(file = "../../output/workspace.RData")
