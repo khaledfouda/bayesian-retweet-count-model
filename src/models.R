@@ -4,8 +4,8 @@ require(statmod)
 require(mvtnorm)
 require(invgamma)
 #------------------------------------
-# INPUT DATA from observations
-model_input = readRDS('../../data/model_input.rds')
+# INPUT DATA - retrieved from EDA.ipynb
+model_input = readRDS('../data/model_input.rds')
 X = model_input$X # the total number of root users
 J = model_input$J # where J_x is the number of retweets user x got including
 # them.
@@ -16,10 +16,12 @@ f = model_input$f # the number of followers of user
 d = model_input$d
 S = model_input$S
 M = model_input$M
+# W is the X matrix for our Bayesian linear regression model.
 W = matrix(c(rep(1,N),log(f+1),log(d+1)),N,3,byrow = FALSE)
 
-#S = log(S)
-#f = log(f+1)
+
+# Constant parameters : 
+# The names are as defined in the graphical model.
 #------------------------------------------
 # Retweet graph constant parameters. ******
 #------------------------------------------
@@ -28,8 +30,6 @@ W = matrix(c(rep(1,N),log(f+1),log(d+1)),N,3,byrow = FALSE)
 mu.beta = c(0,0,0)
 S.beta = diag(c(5^2,5^2,5^2),3,3)
 WTWS.inv = solve(t(W)%*%W + solve(S.beta))
-# The variance of the retweet probability(sigmaS.b) has IG distribution with
-# the following parameters
 a.sigma.b = .5
 b.sigma.b = .5
 #------------------------------------------
@@ -47,6 +47,8 @@ sigma.a = 5
 # b_t has gamma prior the following parameters
 k.b = 1
 theta.b = 1/5
+# a very small epsilon to regulate terms that will be rounded to zero 
+# if it's smaller than epsilon and that 0 is not in its domain.
 eps = 1e-323
 #--------------------------
 # Beta
@@ -70,7 +72,8 @@ post_sigmaS.b = function(b, beta){
   return(rinvgamma(1, ad,rate= bd))
 }
 #--------------------------
-# b_j^x
+# b_j^x has a prior, transition, and posterior
+# The posterior, however, returns a density given a sample.
 prior_b = function(beta, sigmaS.b) {
   mu = c(beta %*% t(W))
   bj = rep(2,N)
@@ -93,15 +96,6 @@ post_b = function(beta, sigmaS.b,b){
   den = (b^M) * (1-b)^(f-M) * exp( (-1/(2*sigmaS.b)) * (logit(b)-mu)^2)
   den = sapply(den, function(d)max(d,eps))
   return(den)
-}
-trans_b.j.x = function(mui, sigmaS.b){
-  bj = rlogitnorm(1,mu[i],sqrt(sigmaS.b))
-  ifelse(bj>eps, return(bj), trans_b.j.x(mui, sigmaS.b))
-}
-post_b.j.x = function(bi, mui, mi,fi, sigmaS.b){
-  den = (bi^mi) * (1-bi)^(fi-mi) * exp( (-1/(2*sigmaS.b)) * (logit(bi)-mui)^2)
-  #den = replace(den, den<eps, eps) 
-  return(max(den, eps))
 }
 #---------
 # a_t
@@ -182,37 +176,10 @@ post_tauS.x = function(a.t, b.t, alpha.x){
     }
   return(ta)
 }
+#-------------------------------------------------
+# Likelihoods
+likeli_M.j.x = function(f.j.x, b.j.x) rbinom(1,f.j.x,b.j.x)
 
-#------------------------------------------------
-# Retweet graph prior distributions ***********
-#------------------------------------------------
-
-
-prior_M.j.x = function(f.j.x, b.j.x) rbinom(1,f.j.x,b.j.x)
-#------------------------------------------
-# Reaction time prior distribution. ******
-#------------------------------------------
-
-prior_S.j.x = function(alpha.x, tauS.x){
-  rnorm(1, alpha.x, sqrt(tauS.x))
-}
-#------------------------------------------------
-# Retweet graph conditional posteriors ***********
-#------------------------------------------------
-
-# Note: b.j.x is sample by MH
-# the posterior of it returns a density instead of a sample.
-# the sample is taken from the proposal
-
-
-#------------------------------------------
-# Reaction time conditional posteriors. ******
-#------------------------------------------
-
-# Note a.t is sampled using MH
-# The posterior returns a density instead of a sample.
-# the sample is taken from the proposal
-
-
+likeli_S.j.x = function(alpha.x, tauS.x) rnorm(1, alpha.x, sqrt(tauS.x))
 #----------------------------------------------------------
 #----------------------------------------------------------
