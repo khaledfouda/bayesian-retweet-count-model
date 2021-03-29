@@ -18,9 +18,8 @@ S = model_input$S
 M = model_input$M
 # W is the X matrix for our Bayesian linear regression model.
 W = matrix(c(rep(1,N),log(f+1),log(d+1)),N,3,byrow = FALSE)
-
-
-# Constant parameters : 
+#--------------------------------------------------------
+# Constant parameters (non-informative): 
 # The names are as defined in the graphical model.
 #------------------------------------------
 # Retweet graph constant parameters. ******
@@ -56,7 +55,6 @@ prior_beta = function(){
   c(rmvnorm(1, mu.beta, S.beta))
 }
 post_beta = function(sigmaS.b, b){
-  #print("Nah")
   covar = sigmaS.b * WTWS.inv
   mu = c((covar %*% t(W)) %*% logit(b)) / sigmaS.b
   return(c(rmvnorm(1, mu, covar)))
@@ -65,7 +63,6 @@ post_beta = function(sigmaS.b, b){
 # Sigma Squared b
 prior_sigmaS.b = function() rinvgamma(1,a.sigma.b,rate=b.sigma.b)
 post_sigmaS.b = function(b, beta){
-  #print("DONT")
   ad = a.sigma.b + N/2
   mu = c(beta %*% t(W))
   bd = b.sigma.b + .5 * sum( (logit(b)-mu)^2)
@@ -83,15 +80,12 @@ prior_b = function(beta, sigmaS.b) {
   }
   return(bj)
 }
-
 trans_b = function(beta, sigmaS.b){
-  #print("HUH")
   mu = c(beta %*% t(W))
   bJ = sapply(mu, function(d){ r=0;while(r<eps|r>=1) r=rlogitnorm(1,d,sigmaS.b);return(r)} )
   return(bJ)
 }
 post_b = function(beta, sigmaS.b,b){
-  #print("POST?")
   mu = c(beta %*% t(W))
   den = (b^M) * (1-b)^(f-M) * exp( (-1/(2*sigmaS.b)) * (logit(b)-mu)^2)
   den = sapply(den, function(d)max(d,eps))
@@ -150,14 +144,12 @@ post_sigmaS.delta = function(alpha, alpha.X){
 #---------------------------------
 # alpha x
 prior_alpha.x = function(alpha, sigmaS.delta) rnorm(X, alpha, sqrt(sigmaS.delta))
-
 post_alpha.x = function(tauS.X, sigmaS.delta){
   alx = rep(NA,X)
-  
   for(i in 1:X){
-  mu = (J[i]-1 + tauS.X[i]*sigmaS.delta^-1)^(-1) * sum(S[(JCUM[i]+1):JCUM[i+1]])
-  sigs = (J[i]-1 + tauS.X[i]*sigmaS.delta^-1)^(-1) *  tauS.X[i]
-  alx[i] = rnorm(1, mu, sqrt(sigs))
+    mu = (J[i]-1 + tauS.X[i]*sigmaS.delta^-1)^(-1) * sum(S[(JCUM[i]+1):JCUM[i+1]])
+    sigs = (J[i]-1 + tauS.X[i]*sigmaS.delta^-1)^(-1) *  tauS.X[i]
+    alx[i] = rnorm(1, mu, sqrt(sigs))
   }
   return(alx)
 }
@@ -166,7 +158,6 @@ post_alpha.x = function(tauS.X, sigmaS.delta){
 prior_tauS.x = function(a.t, b.t) {
   rinvgamma(X, a.t, b.t)
 }
-
 post_tauS.x = function(a.t, b.t, alpha.x){
   ad = a.t + (J-1)/2
   ta = rep(NA,X)
@@ -179,7 +170,6 @@ post_tauS.x = function(a.t, b.t, alpha.x){
 #-------------------------------------------------
 # Likelihoods
 likeli_M.j.x = function(f.j.x, b.j.x) rbinom(1,f.j.x,b.j.x)
-
 likeli_S.j.x = function(alpha.x, tauS.x) rnorm(1, alpha.x, sqrt(tauS.x))
 #----------------------------------------------------------
 #----------------------------------------------------------

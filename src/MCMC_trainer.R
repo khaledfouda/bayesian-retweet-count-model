@@ -2,9 +2,12 @@ source('./models.R')
 require(dplyr)
 
 #------------
+# n is the number of samples drawn at each chain and C is the number of chains.
+n = 15000 
+C = 3 
 #-------------
-n = 8000 # number of samples to be taken from each parameter
-#---------
+# The following arrays will hold the samples drawn for each parameter per chain.
+# We only start storing samples after reaching half the samples
 sam_beta = array(NA, dim=c(n/2,3))
 sam_sigmaS.b = vector(length=n/2)
 sam_b = array(NA, dim=c(n/2,sum(J)))
@@ -17,10 +20,9 @@ sam_alpha.X = array(NA, dim=c(n/2,X))
 sam_tauS.X = array(NA, dim=c(n/2,X))
 #-------------------------------------------------
 #------------------------------------------------
-# Initialization ::
-# Intialize each according to its prior distribution. 
-C = 4 # the number of Markov chains to simulate
-MC = 2*C # The number of resulting MCs
+# The following will hold the summaries across chains for each parameter
+# i'll be storing the mean and variance of each set
+MC = 2*C # The number of resulting MC after dividing the sample in two
 summ_beta = array(NA, c(3,MC,2))
 summ_sigmaS.b = array(NA,c(MC,2))
 summ_alpha= array(NA,c(MC,2))
@@ -30,50 +32,38 @@ summ_b.t = array(NA,c(MC,2))
 summ_alpha.X = array(NA,c(X,MC,2))
 summ_tauS.X = array(NA,c(X, MC,2))
 
-#RNGkind(sample.kind = "Rounding")
-
 #-----------------------------------
 mc = 1 # Index for the markov chains
-for(c in 1:C){
+for(c in 1:C){ # for each chain
   
-  #set.seed(12)
-  #-----1
+  # 1. we begin by giving initial values for our parameters.
+  #-----##
   #beta = prior_beta()
   beta = runif(3, -5,5)
-  #cat(beta,'\n')
   #sigmaS.b = prior_sigmaS.b()
   sigmaS.b = runif(1,.01,2)
-  #cat(sigmaS.b,'\n')
   #b = prior_b(beta, sigmaS.b)
   b = runif(N,.4,.6)
-  #cat(max(b),min(b),'\n')
-  
-  #------2
+  #------##
   alpha = prior_alpha()
   sigmaS.delta = prior_sigmaS.delta()
   a.t = prior_a.t()
   b.t = prior_b.t()
   alpha.X = prior_alpha.x(alpha, sigmaS.delta)
   tauS.X = prior_tauS.x(a.t, b.t)
-  #------1
  #--------------------------------------------------
-  for(t in 1:n){
-    # Here for each time step, we sample each parameter once,
+  for(t in 1:n){ # draw one sample from each parameter
+    
     # Note that a.t and b.j.x are sampled using MH
-    #--------1
+    #-------#
     beta = post_beta(sigmaS.b, b)
-    #cat(beta,'\n')
     sigmaS.b = post_sigmaS.b(b, beta)
-    #cat(sigmaS.b,'\n')
     mu = c(beta %*% t(W))
-    #cat(mu[1:4],'\n')
-    ### b
     newp = trans_b(beta, sigmaS.b)
-    prob = post_b(beta, sigmaS.b, newp)/
-      post_b(beta, sigmaS.b, b)
+    prob = post_b(beta, sigmaS.b, newp)/ post_b(beta, sigmaS.b, b)
     Accepted = runif(N) < prob
     b[Accepted] = newp[Accepted]
-    #----------------------2
+    #----------##
     alpha = post_alpha(sigmaS.delta, alpha.X)
     sigmaS.delta= post_sigmaS.delta(alpha, alpha.X)
     prob = 0
@@ -84,8 +74,9 @@ for(c in 1:C){
     a.t = newa
     b.t = post_b.t(a.t,tauS.X)
     alpha.X = post_alpha.x(tauS.X, sigmaS.delta)
-
     tauS.X = post_tauS.x(a.t, b.t, alpha.X)
+    #---------------------
+    # for the second half of the samples, we store them
     if(t>n/2){
       j = t-n/2
       #----------------1
@@ -146,6 +137,6 @@ for(c in 1:C){
   mc = mc+2
   
 }
-#sam_a.t
-
-save.image(file = "../output/workspace.RData")
+#-----------------------------------------------------
+save.image(file = "../output/workspace_3_10k.RData")
+#-------------------------------------------------------

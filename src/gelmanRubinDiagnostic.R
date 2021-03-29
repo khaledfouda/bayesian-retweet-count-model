@@ -1,3 +1,5 @@
+require(knitr)
+#--------------------------
 gelmanR = function(summ, n){
   m = nrow(summ)
   overallmean = sum(summ[,1])/(m)
@@ -12,12 +14,9 @@ gelmanR = function(summ, n){
   MCSE = sqrt(varE/neff)
   return(c(overallmean,varE,Lbound, Ubound,Rh,neff,MCSE) )
 }
-
+#-------------------------------------
 n.samples = n/4
-gelmanR(summ_b.t, n.samples)
-gelmanR(summ_a.t, n.samples)
-gelmanR(summ_alpha, n.samples)
-
+#-------------------------------------
 output = matrix( c(
   'Beta 0', gelmanR(summ_beta[1,,],n.samples),
   'beta f', gelmanR(summ_beta[2,,],n.samples),
@@ -34,18 +33,17 @@ output = matrix( c(
   'tauS.X.2', gelmanR(summ_tauS.X[2,,],n.samples),
   'tauS.X.3', gelmanR(summ_tauS.X[3,,],n.samples)
   ),ncol=8,nrow=14,byrow = TRUE)
-
+#---------------------------------------------
 output = as.data.frame(output)
 colnames(output) = c("Parameter", 'mean', 'Estim var', "low.bound",
-                     'upp.bound', 'R-hat','n_eff', 'MC SE')
-
+                     'upp.bound', 'R_hat','n_eff', 'MC SE')
+#-------------------------------------------
 output %>% select(-Parameter) %>% mutate_all(as.numeric) %>%
-  mutate_if(is.numeric, round, digits=6) -> output[,-1]
-
+  mutate_if(is.numeric, round, digits=5) %>% 
+   mutate(R_hat=round(R_hat,3), n_eff=round(n_eff))  -> output[,-1]
+#------------------------------------------------------
 View(output)
-
 kable(output, "latex")
-
+#--------------------------------------------------
 #load('../output/workspace.RData')
-
-summ_a.t
+#--------------------------------------------------
