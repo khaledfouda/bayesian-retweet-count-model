@@ -91,6 +91,17 @@ post_b = function(beta, sigmaS.b,b){
   den = sapply(den, function(d)max(d,eps))
   return(den)
 }
+trans_bj = function(mui, sigmaS.b){
+  bj = rlogitnorm(1, mui, sigmaS.b);
+  while(bj<eps|bj>=1) bj = rlogitnorm(1, mui, sigmaS.b)
+  return(bj)
+}
+post_bj = function(x, mui, Mi, fi, sigmaS.b){
+  
+  den = (x^Mi) * (1-x)^(fi-Mi) * exp( (-1/(2*sigmaS.b)) * (logit(x)-mui)^2)
+  return(max(den,eps))
+}
+
 #---------
 # a_t
 prior_a.t = function() {
@@ -99,7 +110,7 @@ prior_a.t = function() {
 }
 post_a.t = function(x, b.t, tauS.X){
   den = exp(-(log(x)^2)/(2*sigma.a^2)) * prod(sqrt(tauS.X)^(-x) * ((b.t^x)/gamma(x)))
-  return(den)
+  return(den+eps)
 }
 trans_a.t = function(prev){
   a = rnorm(1,prev, .1)

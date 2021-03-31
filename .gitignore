@@ -5,3 +5,11 @@ old_backup_only/**
 .Rhistory
 .RData
 *.ipynb_checkpoints
+src2/.RDataTmp
+src2/gelmanRubinDiagnostic.R
+src2/models.R
+src2/MCMC_trainer.R
+output/test2
+*.RDataTmp
+output/results_1MC_80kN.png
+output/results_2MC_80kN.png
