@@ -11,7 +11,7 @@ data analysis done in section 2.
 
 _____________________________________________________
 
-- All explainations are model derivations as well as the results are explained in the report: [Probabilistic Graphical Models Case study: Hierarchical
+- All explainations and model derivations as well as the results are explained in the report: [Probabilistic Graphical Models Case study: Hierarchical
 Bayesian Model](https://github.com/khaledfouda/bayesian-retweet-count-model/blob/main/case_study__Hierarchical_Bayesian_Model_A4.pdf).  
 - The project is based on [Tauhid Zaman, Emily B. Fox, and Eric T. Bradlow. A bayesian approach for predicting the
 popularity of tweets](https://arxiv.org/abs/1304.6777v3).  
