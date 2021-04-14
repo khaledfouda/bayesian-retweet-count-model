@@ -16,7 +16,7 @@ Bayesian Model](https://github.com/khaledfouda/bayesian-retweet-count-model/blob
 - The project is based on [Tauhid Zaman, Emily B. Fox, and Eric T. Bradlow. A bayesian approach for predicting the
 popularity of tweets](https://arxiv.org/abs/1304.6777v3).  
 - Source code structure:
-  - The notebook [EDA_v2.ipynb](https://github.com/khaledfouda/bayesian-retweet-count-model/blob/main/src/EDA_v2.ipynb) reads, prepares and explores the data.
+  - The notebook [EDA_v2.ipynb](https://github.com/khaledfouda/bayesian-retweet-count-model/blob/main/src/EDA_v2.ipynb) reads, prepares and explores the data. A pdf version is avaiable  at [EDA_data_cleaning.pdf](https://github.com/khaledfouda/bayesian-retweet-count-model/blob/main/report/EDA_data_cleaning.pdf)
   - All the priors, posteriors and likelihoods are defined in [models.R](https://github.com/khaledfouda/bayesian-retweet-count-model/blob/main/src/models.R).
   - The MCMC sampling loop is defined in [MCMC_trainer.R](https://github.com/khaledfouda/bayesian-retweet-count-model/blob/main/src/MCMC_trainer.R).
   - Gelman Rubin diagnostics are defined in [gelmanRubinDiagnostic.R](https://github.com/khaledfouda/bayesian-retweet-count-model/blob/main/src/gelmanRubinDiagnostic.R).
