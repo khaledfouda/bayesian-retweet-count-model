@@ -1,4 +1,4 @@
-# Abstract
+# Probabilistic Graphical Models Case study: Hierarchical Bayesian Model  
 -----
 Here we go over the process of building a hierarchical Bayesian model to model the future
 number of retweets for a given tweet. We begin by giving a summary on the important
